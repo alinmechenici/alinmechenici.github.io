@@ -34,7 +34,7 @@ email: "cardbenefits@arti.ro"
 description: "Card Benefits"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "edubenefits" # the base hostname & protocol for your site, e.g. http://example.com
+url: "edubenefits.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
