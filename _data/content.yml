@@ -1,0 +1,284 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Hero [ hero-image ]
+hero:
+  image: "assets/img/profile2.png"
+  image_alt: "SRB"
+  title: "<b>Card</b> EduBenefits"
+  before_title: "Salut, <b>noi suntem</b>"
+  after_title: "Vino <strong>alaturi de noi!</strong>"
+  description: "Din Craiova, suntem primul card de marketing social."
+  button1:
+    label: "Inscrie-te!"
+    link: "#"
+  button2:
+    label: "Citeste mai mult"
+    link: "#skills-section"
+  bg_title: "Web Developer"
+  info:
+    - num: "100 <strong>+</strong>"
+      value: "Beneficii <strong>pentru angajati</strong>"
+
+    - num: "30+"
+      value: "Parteneri <strong>in retea</strong>"
+
+### Services [ services ]
+services:
+  title: "Despre"
+  subtitle: "Cardul <b>EduBenefits</b>"
+  bg_title: "Services"
+
+  items:
+    - title: "Obiective"
+      subtitle: "Ce ne propunem"
+      text: "Combaterea violenței în școli, imbunatatire procese de planificare, implementare și evaluare a curriculumului românesc, gestionarea comportamentelor, managementul clasei, predarea diferențiată si interactivă, creșterea dragostei pentru învățătură a copiilor, motivarea cadrelor diactice, comunicarea cu părinții, implicarea în comunitate a elevilor. "
+      button_label: "..."
+      button_link: "#pricing-section"
+
+    - title: "Valori si misiune"
+      subtitle: "De ce suntem aici"
+      text: "Realizându-se astfel o campanie de marketing comunitar la nivelul fiecărei companii implicate, având posibilitatea de a promova public asocierea între firmă și susținerea Fondului de Burse prin lansarea unor subcampanii adresate clienților."
+      button_label: "..."
+      button_link: "#pricing-section"
+
+    - title: "O retea puternica"
+      subtitle: "Parteneri"
+      text: "Esti singurul din sectorul tau de activitate implicat in campanie. Inscrie-te pana nu o fac altii!"
+      button_label: "..."
+      button_link: "#pricing-section"
+
+    - title: "Conectare"
+      subtitle: "Comunitate"
+      text: "îți oferă posibilitatea de a te conecta cu o mulțime de persoane deosebite: copii, partenerii locali ce oferă beneficiile pentru angajați, proprii colegi prin activitățile de voluntariat."
+      button_label: "..."
+      button_link: "#pricing-section"
+
+    - title: "Pentru angajatii tai"
+      subtitle: "Beneficii"
+      text: "Intreaga retea de parteneri ofera beneficii pentru angajatii tai."
+      button_label: "..."
+      button_link: "#pricing-section"
+
+    - title: "Deductibilitate cheltuieli"
+      subtitle: "Marketing comunitar"
+      text: "Suntem prima retea din tara ce ofera beneficii de marketing comunitar pentru companiile partenere. Profita!"
+      button_label: "..."
+      button_link: "#pricing-section"
+
+### Skills [ skills ]
+skills:
+  title: "Domenii inscrise"
+  subtitle: "Talentul <b>Retelei</b>"
+  bg_title: "Skills"
+
+  column1:
+    items:
+      - label: "Educatie" #0-10 progress in dots
+        text: "Organizatii educationale."
+        value: "85" #0-100 progress in %
+
+      - label: "Clinici" #0-10 progress in dots
+        text: "Retea de clinici, cabinete medicale si psihologice, acoperim intregul spectru medical."
+        value: "75" #0-100 progress in %
+
+  column2:
+    items:
+      - label: "Marketing" #0-10 progress in dots
+        text: "Agentii de marketing, photo-video editing, procesare audio si multimedia."
+        value: "75" #0-100 progress in %
+
+      - label: "Cybersecurity" #0-10 progress in dots
+        text: "Protejarea datelor, Cyber Hygiene si control parental pentru scoli si familii, consultanta cybersecurity."
+        value: "70" #0-100 progress in %
+
+  column3:
+    items:
+      - label: "Constructii" #0-10 progress in dots
+        text: "Amenajari interioare, constructii cladiri, tot spectrul."
+        value: "90" #0-100 progress in %
+
+      - label: "Si multe altele" #0-10 progress in dots
+        text: "Vino alaturi de partenerii nostri si contribuie cu serviciul tau la bunastarea tuturor!"
+        value: "80" #0-100 progress in %
+
+### Istoric [ resume ]
+#resume:
+#  title: "Istoria"
+#  subtitle: "my <b>Story</b>"
+#  bg_title: "History"
+
+#  education:
+#    title: "Education"
+#    items:
+#      - name: "CoderHouse Courses"
+#        subname: "Backend Programming"
+#        period: "2014 - 2016"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "Lviv National Academy of Arts"
+#        subname: "Faculty of Design"
+#        period: "2012 - 2014"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "IT Future"
+#        subname: "High School"
+#        period: "2010 - 2012"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#  experience:
+#    title: "Experience"
+#    items:
+#      - name: "UI Head &amp; Manager"
+#        subname: "Soft Tech Inc."
+#        period: "2020 - <b>Present</b>"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "UI / UX Specialist"
+#        subname: "Kana Design Studio"
+#        period: "2018 - 2020"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "Plugins Developer"
+#        subname: "Fiverr.com"
+#        period: "2016 - 2018"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+### Testimonials [ testimonials ]
+testimonials:
+  title: "Testimoniale"
+  subtitle: "Ce <b>spun membrii comunitatii</b>"
+  bg_title: "Reviews"
+
+  items:
+    - image: "assets/img/testimonials/testi4-2.jpg"
+      name: "Cristina Catana"
+      role: "CEO SRB"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - image: "assets/img/testimonials/testi4-1.jpg"
+      name: "Alin Mechenici"
+      role: "CEO Chenist"
+      text: "Sustin educatia din Romania si contribui cu servicii de securitate informatica, deoarece viitorul trebuie protejat."
+
+    - image: "assets/img/testimonials/testi4-4.jpg"
+      name: "Stefan Cherciu "
+      role: "Owner QFort"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - image: "assets/img/testimonials/testi4-3.jpg"
+      name: "Andreea Iovita"
+      role: "Psiholog"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    - image: "assets/img/testimonials/testi4-5.jpg"
+      name: "Florin Sanda"
+      role: "Serial Antreprenor"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+### Pricing [ pricing ]
+pricing:
+  title: "Preturi"
+  subtitle: "membership /<b> Card EduBenefits</b>"
+  bg_title: "Pricing"
+
+  items:
+    - name: "Lunar / card"
+      center: false
+      price: "39 <b>RON</b>"
+      price_after: "Lunar"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+      list:
+        - value: "Brand Design"
+          included: true
+        - value: "Web Development"
+          included: true
+        - value: "Advertising"
+          included: false
+        - value: "Photography"
+          included: false
+      button:
+        label: "Start Project"
+        link: "#contact-section"
+
+    - name: "Anual / card"
+      center: true
+      label: "Popular"
+      price: "259 <b>RON</b>"
+      price_after: "Week"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+      list:
+        - value: "Brand Design"
+          included: true
+        - value: "Web Development"
+          included: true
+        - value: "Advertising"
+          included: true
+        - value: "Photography"
+          included: false
+      button:
+        label: "Start Project"
+        link: "#contact-section"
+
+    #- name: "5 ani"
+    #  center: false
+    #  price: "1.249 <b>RON</b>"
+    #  price_after: "5 ani"
+    #  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+    #  list:
+    #    - value: "Brand Design"
+    #      included: true
+    #    - value: "Web Development"
+    #      included: true
+    #    - value: "Advertising"
+    #      included: true
+    #    - value: "Photography"
+    #      included: true
+    #  button:
+    #    label: "Start Project"
+    #    link: "#contact-section"
+
+
+### Blog [ blog ]
+#items generates from dir /_posts/*
+blog:
+  title: "Blog"
+  subtitle: "Articole <b>si sfaturi</b>"
+  bg_title: "Blog"
+  button:
+    label: "View Blog"
+    link: "blog/"
+
+
+### Contact [ contacts ]
+contacts:
+  title: "Contact"
+  subtitle: "Tinem <b>Legatura</b>"
+  bg_title: "Contact"
+
+  list:
+    - label: "Address"
+      icon: "far fa-map"
+      text: "Craiova, George Bibescu 15A"
+
+    - label: "Email"
+      icon: "far fa-envelope"
+      text: "cardbenefits@arti.ro"
+
+    - label: "Phone"
+      icon: "far fa-address-book"
+      text: "07EDUCATIE"
+
+### Portfolio [ portfolio ]
+#items generates from dir /_works/*
+portfolio:
+  title: "Parteneri"
+  subtitle: "Beneficii <b>oferite de...</b>"
+  bg_title: "Portfolio"
+  button:
+    link: "works/"
+    label: "View More"

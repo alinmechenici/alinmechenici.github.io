@@ -1,0 +1,46 @@
+# Theme Settings Configuration File
+##
+### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
+
+### Main Settings
+settings:
+  skin: "light" # select initial skin option: "light" or "dark"
+
+### Preloader
+preloader:
+  logo:
+    image: "assets/img/logo2.png"
+    alt: "SRB"
+
+### Header
+header:
+  logo:
+    image: "assets/img/logo2.png"
+    alt: "SRB"
+
+### Social
+social:
+  - title: "Twitter"
+    icon: "fab fa-twitter"
+    url: "http://twitter.com/cardedubenefits"
+
+### Footer
+footer:
+  developer: "Dezvoltat de <strong>chenist.digital</strong>"
+  copyright: "<strong>EduBenefits</strong>. Toate drepturile rezervate."
+
+### Portfolio Filters Settings
+portfolio:
+  layout: "list" # select works layout options: "Grid" or "List"
+  filters:
+    - name: "Educatie"
+      slug: "ui-ux-design"
+
+    - name: "Medicina"
+      slug: "photography"
+
+    - name: "Servicii"
+      slug: "development"
+
+    - name: "Marketing"
+      slug: "branding"
