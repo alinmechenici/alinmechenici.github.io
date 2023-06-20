@@ -7,7 +7,7 @@ category:
 image: assets/img/beneficiiedu.png
 ### if need replace preview image for single image add field full_image, ex:
 #full_image: assets/img/works/work4.jpg
-author: SRB
+author: Cristina
 tags: beneficii
 ---
 
