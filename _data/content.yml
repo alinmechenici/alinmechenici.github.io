@@ -69,40 +69,40 @@ services:
       button_link: "#pricing-section"
 
 ### Skills [ skills ]
-skills:
-  title: "Domenii inscrise"
-  subtitle: "Talentul <b>Retelei</b>"
-  bg_title: "Skills"
+#skills:
+#  title: "Domenii inscrise"
+#  subtitle: "Talentul <b>Retelei</b>"
+#  bg_title: "Skills"
 
-  column1:
-    items:
-      - label: "Educatie" #0-10 progress in dots
-        text: "Organizatii educationale."
-        value: "85" #0-100 progress in %
+#  column1:
+#    items:
+#      - label: "Educatie" #0-10 progress in dots
+#        text: "Organizatii educationale."
+#        value: "85" #0-100 progress in %
 
-      - label: "Clinici" #0-10 progress in dots
-        text: "Retea de clinici, cabinete medicale si psihologice, acoperim intregul spectru medical."
-        value: "75" #0-100 progress in %
+#      - label: "Clinici" #0-10 progress in dots
+#        text: "Retea de clinici, cabinete medicale si psihologice, acoperim intregul spectru medical."
+#        value: "75" #0-100 progress in %
 
-  column2:
-    items:
-      - label: "Marketing" #0-10 progress in dots
-        text: "Agentii de marketing, photo-video editing, procesare audio si multimedia."
-        value: "75" #0-100 progress in %
+#  column2:
+#    items:
+#      - label: "Marketing" #0-10 progress in dots
+#        text: "Agentii de marketing, photo-video editing, procesare audio si multimedia."
+#        value: "75" #0-100 progress in %
 
-      - label: "Cybersecurity" #0-10 progress in dots
-        text: "Protejarea datelor, Cyber Hygiene si control parental pentru scoli si familii, consultanta cybersecurity."
-        value: "70" #0-100 progress in %
+#      - label: "Cybersecurity" #0-10 progress in dots
+#        text: "Protejarea datelor, Cyber Hygiene si control parental pentru scoli si familii, consultanta cybersecurity."
+#        value: "70" #0-100 progress in %
 
-  column3:
-    items:
-      - label: "Constructii" #0-10 progress in dots
-        text: "Amenajari interioare, constructii cladiri, tot spectrul."
-        value: "90" #0-100 progress in %
+#  column3:
+#    items:
+#      - label: "Constructii" #0-10 progress in dots
+#        text: "Amenajari interioare, constructii cladiri, tot spectrul."
+#        value: "90" #0-100 progress in %
 
-      - label: "Si multe altele" #0-10 progress in dots
-        text: "Vino alaturi de partenerii nostri si contribuie cu serviciul tau la bunastarea tuturor!"
-        value: "80" #0-100 progress in %
+#      - label: "Si multe altele" #0-10 progress in dots
+#        text: "Vino alaturi de partenerii nostri si contribuie cu serviciul tau la bunastarea tuturor!"
+#        value: "80" #0-100 progress in %
 
 ### Istoric [ resume ]
 #resume:
@@ -149,7 +149,7 @@ skills:
 
 ### Testimonials [ testimonials ]
 testimonials:
-  title: "Testimoniale"
+  title: "Ofera beneficii"
   subtitle: "Ce <b>spun membrii comunitatii</b>"
   bg_title: "Reviews"
 
