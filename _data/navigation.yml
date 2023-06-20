@@ -32,8 +32,8 @@ main:
   #  parent: 0
 
   # Testimonials
-  - title: "Testimoniale"
-    url: "#testimonials-section"
+  - title: "Beneficii"
+    url: "https://edubenefits.scoalabritanica.ro/video/beneficii/2023/06/20/ofera-beneficii/"
     parent: 0
 
   # Pricing
