@@ -1,10 +1,10 @@
 ---
 # preview details
 layout: works-single
-title: Stay Fit
-category: Development
-category_slug: development
-image: assets/img/works/work4.jpeg
+title: White Kiss
+category: Photography
+category_slug: photography
+image: assets/img/logos/whitekiss.png
 short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
 
 # full details
@@ -15,7 +15,7 @@ info:
     value: 2022
 
   - label: Technology
-    value: Development, PHP
+    value: Photoshop, XD
 
 description1:
   show: yes

@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: Gooir
-category: UI UX Design
-category_slug: ui-ux-design
-image: assets/img/works/work4.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+title: Meiyo
+category: Photography
+category_slug: photography
+image: assets/img/logos/meiyo.png
+short_description: Meiyo.
 
 # full details
 live_preview: https://bslthemes.com
@@ -15,7 +15,7 @@ info:
     value: 2022
 
   - label: Technology
-    value: Figma, UI
+    value: Photoshop, XD
 
 description1:
   show: yes

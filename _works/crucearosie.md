@@ -1,21 +1,21 @@
 ---
 # preview details
 layout: works-single
-title: Zorro
-category: Branding
-category_slug: branding
-image: assets/img/works/work5.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+title: Crucea Rosie
+category: UI UX Design
+category_slug: ui-ux-design
+image: assets/img/logos/crucearosie.jpg
+short_description: Crucea Rosie.
 
 # full details
-live_preview: https://bslthemes.com
+live_preview: https://crucearosie.ro
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
     value: 2022
 
   - label: Technology
-    value: UI, XD
+    value: Figma, UI
 
 description1:
   show: yes

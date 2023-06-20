@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: Mozar
-category: Photography
-category_slug: photography
-image: assets/img/works/work1.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+title: Logischool
+category: Development
+category_slug: development
+image: assets/img/logos/logischool.jpg
+short_description: Logischool
 
 # full details
 live_preview: https://bslthemes.com
@@ -15,7 +15,7 @@ info:
     value: 2022
 
   - label: Technology
-    value: Photoshop, XD
+    value: Development, PHP
 
 description1:
   show: yes

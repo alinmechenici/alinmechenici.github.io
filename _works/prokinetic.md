@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: Kana
-category: Photography
-category_slug: photography
-image: assets/img/works/work6.jpeg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+title: Prokinetic
+category: Branding
+category_slug: branding
+image: assets/img/logos/prokinetic.jpg
+short_description: Prokinetic
 
 # full details
 live_preview: https://bslthemes.com
@@ -15,7 +15,7 @@ info:
     value: 2022
 
   - label: Technology
-    value: Photoshop, XD
+    value: UI, XD
 
 description1:
   show: yes
