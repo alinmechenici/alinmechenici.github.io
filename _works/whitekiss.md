@@ -5,10 +5,12 @@ title: White Kiss
 category: Photography
 category_slug: photography
 image: assets/img/logos/whitekiss.png
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
-
+short_description: 
+- 1 consultație stomatologică  gratuită/an (dacă nu este folosită de posesorul cardului se poate utiliza de un alt membru al familiei).
+- 1 igienizare gratuită (detartraj+periaj) / an
+- discount de 5% la pretul de lista  (pentru consultarea preturilor, vezi site  : www.whitekiss.ro -sectiunea Preturi)
 # full details
-live_preview: https://bslthemes.com
+live_preview: www.whitekiss.ro
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
