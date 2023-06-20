@@ -1,21 +1,21 @@
 ---
 # preview details
 layout: works-single
-title: CHENIST
-category: Development
-category_slug: development
+title: CHENIST.Academy/Kids
+category: Educatie
+category_slug: ui-ux-design
 image: assets/img/works/work7.jpg
 short_description: CHENIST Cybersecurity - Oferim reducere 10% la serviciile de Igiena Digitala si control parental.
 
 # full details
-live_preview: https://chen.ist
+live_preview: https://chenist.academy/kids/
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
     value: 2020
 
-  - label: Technology
-    value: Cybersecurity, Development
+  - label: Educatie
+    value: Consultanta, Training
 
 description1:
   show: yes
@@ -30,8 +30,8 @@ gallery:
 
 description2:
   title: Video
-  text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-  <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
+  text: "<p>
+  </p>"
 
 video:
   poster: assets/img/blog/blog9.jpg

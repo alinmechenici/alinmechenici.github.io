@@ -1,27 +1,27 @@
 ---
 # preview details
 layout: works-single
-title: Logischool
+title: Scoala Romano-Britanica
 category: Development
 category_slug: development
-image: assets/img/logos/logischool.jpg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+image: assets/img/logos/srb.jpg
+short_description: Acces gratuit la cursurile pentru părinți "ȘCOALA PĂRINȚILOR".
 
 # full details
-live_preview: https://bslthemes.com
+live_preview: https://scoalabritanica.ro
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2022
+    value: 2020
 
   - label: Technology
-    value: Development, PHP
+    value: Cybersecurity, Development
 
 description1:
   show: yes
-  title: Project Goal
-  text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-  <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
+  title: Servicii
+  text: "<p>.</p>
+  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
 
 gallery:
   - assets/img/works/work5.jpeg
@@ -29,12 +29,12 @@ gallery:
   - assets/img/blog/blog6.jpg
 
 description2:
-  title: Project Result
+  title: Video
   text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
   <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
 
 video:
   poster: assets/img/blog/blog9.jpg
-  id: Gu6z6kIukgg
+  id: c10hOnwQFaQ
 
 ---
