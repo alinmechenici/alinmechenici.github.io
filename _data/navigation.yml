@@ -36,23 +36,13 @@ main:
     url: "https://edubenefits.scoalabritanica.ro/beneficii/2023/06/20/ofera-beneficii/"
     parent: 0
 
-  # Pricing
-  - title: "Preturi"
-    url: "#pricing-section"
-    parent: 0
-
   # Blog
-  - title: "Blog"
+  - title: "Parteneri"
     url: "#blog-section"
     parent: 0
 
-  # Contact
-  - title: "Contact"
-    url: "#contact-section"
-    parent: 0
-
   # Additional Pages
-  - title: "Pages"
+  - title: "Aboneaza-te!"
     url: ""
     parent: 1
     childs:
@@ -61,3 +51,13 @@ main:
 
         - title: "Blog"
           url: "blog/"
+          
+  # Pricing
+  - title: "Preturi"
+    url: "#pricing-section"
+    parent: 0
+
+  # Contact
+  - title: "Contact"
+    url: "#contact-section"
+    parent: 0
