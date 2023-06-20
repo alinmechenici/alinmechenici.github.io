@@ -246,11 +246,11 @@ pricing:
 ### Blog [ blog ]
 #items generates from dir /_posts/*
 blog:
-  title: "Blog"
-  subtitle: "Articole <b>si sfaturi</b>"
-  bg_title: "Blog"
+  title: "Parteneri"
+  subtitle: "Stiri <b>si sfaturi</b>"
+  bg_title: "Parteneri"
   button:
-    label: "View Blog"
+    label: "Vezi parteneri"
     link: "blog/"
 
 
