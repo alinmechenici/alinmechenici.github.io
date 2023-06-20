@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Ofera Beneficii!",
+      "category" : "VideoBeneficii",
+      "tags"     : "beneficii",
+      "url"      : "/video/beneficii/2023/06/20/ofera-beneficii/",
+      "date"     : "2023-06-20 00:00:00 +0300"
+    } ,
+  
+    {
       "title"    : "By spite about do of do allow",
       "category" : "Music",
       "tags"     : "rock",
@@ -30,14 +38,6 @@
       "tags"     : "Jekyll",
       "url"      : "/design/2020/06/15/by-spite-what/",
       "date"     : "2020-06-15 00:00:00 +0300"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll!",
-      "category" : "VideoMusic",
-      "tags"     : "Jekyll",
-      "url"      : "/video/music/2020/01/08/welcome-to-jekyll/",
-      "date"     : "2020-01-08 00:00:00 +0200"
     } 
   
 ]
