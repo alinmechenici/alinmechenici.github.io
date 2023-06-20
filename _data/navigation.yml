@@ -46,12 +46,12 @@ main:
     url: ""
     parent: 1
     childs:
-        - title: "Works"
+        - title: "Individual"
           url: "works/"
 
-        - title: "Blog"
+        - title: "Grup"
           url: "blog/"
-          
+
   # Pricing
   - title: "Preturi"
     url: "#pricing-section"
