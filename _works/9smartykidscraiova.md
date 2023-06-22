@@ -1,10 +1,10 @@
 ---
 # preview details
 layout: works-single
-title: Crucea Rosie
-category: Sanatate
-category_slug: photography
-image: assets/img/logos/crucearosie.png
+title: SMARTY Kids - Craiova Centru
+category: Educatie
+category_slug: ui-ux-design
+image: assets/img/logos/smarty.png
 short_description: 
 
 # full details
@@ -21,7 +21,7 @@ description1:
   show: yes
   title: Servicii
   text: "<p>.</p>
-  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
+  "
 
 gallery:
   - assets/img/works/work5.jpeg
