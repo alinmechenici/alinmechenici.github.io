@@ -14,9 +14,9 @@ info:
   - label: Reducere
     value: 10% 
 
-    - label: Gratuit
+  - label: Gratuit
     value: consultatie
-    
+
 description1:
   show: yes
   title: "- Gratuit: planul de nursing și modul de aplicare a conduitei terapeutice

@@ -15,7 +15,7 @@ info:
   - label: Reducere
     value: 5% 
 
-    - label: Gratuit
+  - label: Gratuit
     value: consultatie, igienizare
 description1:
   show: yes

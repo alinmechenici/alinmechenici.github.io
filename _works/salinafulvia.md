@@ -14,7 +14,7 @@ info:
   - label: Reducere
     value: 10% 
 
-    - label: Gratuit
+  - label: Gratuit
     value: prima sedinta
 description1:
   show: yes
