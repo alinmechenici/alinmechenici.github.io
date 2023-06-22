@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title: CLUBUL SPORTIV MEIYO
+title: Centrul de Educare Canina
 category: Photography
 category_slug: photography
-image: assets/img/logos/meiyo.png
-short_description: Meiyo.
+image: assets/img/logos/centruldeeducarecanina.png
+short_description: Centrul de Educare Canina
 
 # full details
 live_preview: 
