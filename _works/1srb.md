@@ -5,36 +5,25 @@ title: Scoala Romano-Britanica
 category: Educatie
 category_slug: ui-ux-design
 image: assets/img/logos/srb.png
-short_description: SRB
+short_description: Acces gratuit pentru Scoala Parintilor
 
 # full details
-live_preview: https://chenist.academy/kids/
-full_image: assets/img/works/single1.jpg
+live_preview: https://scoalabritanica.ro
+full_image: assets/img/works/SRB-slide8.jpg
 info:
   - label: Reducere
-    value: 10%
-
-  - label: Educatie
-    value: Consultanta, Training
+    value: 100%
+  
+  - label: Gratuit
+    value: Acces gratuit pentru Scoala Parintilor
 
 description1:
   show: yes
-  title: Servicii
-  text: "<p>.</p>
-  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
-
-gallery:
-  - assets/img/works/work5.jpeg
-  - assets/img/blog/blog8.jpg
-  - assets/img/blog/blog6.jpg
-
-description2:
-  title: Video
-  text: "<p>
-  </p>"
+  title: Acces gratuit la cursurile pentru parintii Scoala Parintilor
+  text: Acces gratuit la cursurile pentru parintii Scoala Parintilor
 
 video:
-  poster: assets/img/blog/blog9.jpg
-  id: c10hOnwQFaQ
+  poster: assets/img/works/SRB-slide8.jpg
+  id: SftZ3uV2uAQ
 
 ---
