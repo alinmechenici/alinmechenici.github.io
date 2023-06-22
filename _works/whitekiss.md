@@ -19,8 +19,8 @@ info:
     value: consultatie, igienizare
 description1:
   show: yes
-  title: "1 consultație stomatologică gratuită/an
-<br> -1 igienizare gratuită (detartraj+periaj)/ an
+  title: "- 1 consultație stomatologică gratuită/an
+<br> - 1 igienizare gratuită (detartraj+periaj)/ an
 <br> - discount de 5% la pretul de lista"
   text: "<p>.</p>
   "

@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: Union Business Travel
-category: Photography
+category: Calatorii
 category_slug: photography
 image: assets/img/logos/ubts.png
 short_description: "25% discount pentru cursele rezervate"

@@ -16,8 +16,8 @@ info:
 
 description1:
   show: yes
-  title: "20% servicii de transport persoane microbuze si autocare, organizate si regulate
-<br> - 20% pentru abonamentul de transport elevi SRB"
+  title: "- 20% servicii de transport persoane microbuze si autocare, organizate si regulate
+<br>- 20% pentru abonamentul de transport elevi SRB"
   text: "<p>.</p>
   "
 
