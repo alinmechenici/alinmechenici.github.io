@@ -2,26 +2,26 @@
 # preview details
 layout: works-single
 title: Crucea Rosie
-category: UI UX Design
+category: Sanatate
 category_slug: ui-ux-design
-image: assets/img/logos/crucearosie.jpg
-short_description: Crucea Rosie.
+image: assets/img/logos/crucearosie.png
+short_description: 
 
 # full details
-live_preview: https://crucearosie.ro
+live_preview: https://chenist.academy/kids/
 full_image: assets/img/works/single1.jpg
 info:
-  - label: Year
-    value: 2022
+  - label: Reducere
+    value: 10%
 
-  - label: Technology
-    value: Figma, UI
+  - label: Educatie
+    value: Consultanta, Training
 
 description1:
   show: yes
-  title: Project Goal
-  text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-  <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
+  title: Servicii
+  text: "<p>.</p>
+  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
 
 gallery:
   - assets/img/works/work5.jpeg
@@ -29,12 +29,12 @@ gallery:
   - assets/img/blog/blog6.jpg
 
 description2:
-  title: Project Result
-  text: "<p>Aliquam a sapien diam. Phasellus pulvinar tellus aliquam eleifend consectetur. Sed bibendum leo quis rutrum aliquetmorbi.</p>
-  <p>Donec imperdiet risus at tortor consequat maximus et eget magna. Cras ornare sagittis augue, id sollicitudin justo tristique ut. Nullam ex enim, euismod vel bibendum ultrices, fringilla vel eros. Donec euismod leo lectus, et euismod metus euismod sed. Quisque quis suscipit ipsum, at pellentesque velit. Duis a congue sem.</p>"
+  title: Video
+  text: "<p>
+  </p>"
 
 video:
   poster: assets/img/blog/blog9.jpg
-  id: Gu6z6kIukgg
+  id: c10hOnwQFaQ
 
 ---
