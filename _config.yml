@@ -29,12 +29,12 @@
 # in the templates via {{ site.myvariable }}.
 
 # basic settings
-title: "Card EduBenefits"
+title: "EduBenefits"
 email: "cardbenefits@arti.ro"
 description: "Card Benefits"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "edubenefits.scoalabritanica.ro" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://edubenefits.scoalabritanica.ro" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks

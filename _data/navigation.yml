@@ -28,7 +28,7 @@ main:
 
   # Despre
   - title: "Despre"
-    url: "#resume-section"
+    url: "https://edubenefits.scoalabritanica.ro/despre/"
     parent: 0
 
   # Testimonials
@@ -47,10 +47,10 @@ main:
     parent: 1
     childs:
         - title: "Individual"
-          url: "works/"
+          url: "https://edubenefits.scoalabritanica.ro/individual/"
 
         - title: "Grup"
-          url: "blog/"
+          url: "https://edubenefits.scoalabritanica.ro/grup/"
 
   # Pricing
   - title: "Preturi"
