@@ -1,14 +1,14 @@
 ---
 # preview details
 layout: works-single
-title: Meiyo
+title: CLUBUL SPORTIV MEIYO
 category: Photography
 category_slug: photography
 image: assets/img/logos/meiyo.png
 short_description: Meiyo.
 
 # full details
-live_preview: https://bslthemes.com
+live_preview: 
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
