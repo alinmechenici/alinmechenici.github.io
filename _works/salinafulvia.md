@@ -1,10 +1,10 @@
 ---
 # preview details
 layout: works-single
-title: White Kiss
-category: Photography
+title: Salina Fulvia
+category: Sanatate
 category_slug: photography
-image: assets/img/logos/white.png
+image: assets/img/logos/salinafulvia.png
 short_description: 
 - 1 consultație stomatologică  gratuită/an (dacă nu este folosită de posesorul cardului se poate utiliza de un alt membru al familiei).
 - 1 igienizare gratuită (detartraj+periaj) / an

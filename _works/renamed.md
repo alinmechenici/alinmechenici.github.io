@@ -4,7 +4,7 @@ layout: works-single
 title: Renamed
 category: Sanatate
 category_slug: photography
-image: assets/img/logos/remamed.png
+image: assets/img/logos/renamed.png
 short_description: 
 
 # full details

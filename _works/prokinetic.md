@@ -2,9 +2,9 @@
 # preview details
 layout: works-single
 title: Prokinetic
-category: Branding
-category_slug: branding
-image: assets/img/logos/prokinetic.jpg
+category: Sanatate
+category_slug: photography
+image: assets/img/logos/prokinetic.png
 short_description: Prokinetic
 
 # full details
