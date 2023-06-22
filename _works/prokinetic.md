@@ -14,7 +14,7 @@ info:
   - label: Reducere
     value: 10% abonamente
 
-    - label: Gratuit
+  - label: Gratuit
     value: evaluare posturala
 
 description1:

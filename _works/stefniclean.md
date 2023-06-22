@@ -5,7 +5,7 @@ title: Stefniclean - Curatenie
 category: Curatenie
 category_slug: photography
 image: assets/img/logos/stefniclean.png
-short_description:"10% pentru toate serviciile"
+short_description: "10% pentru toate serviciile"
 
 # full details
 live_preview:
