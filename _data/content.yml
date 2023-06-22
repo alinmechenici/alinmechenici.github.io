@@ -148,36 +148,36 @@ services:
 
 
 ### Testimonials [ testimonials ]
-testimonials:
-  title: "Ofera beneficii"
-  subtitle: "Ce <b>spun membrii comunitatii</b>"
-  bg_title: "Reviews"
+#testimonials:
+#  title: "Ofera beneficii"
+#  subtitle: "Esti <b>Companie</b>?"
+#  bg_title: "Reviews"
 
-  items:
-    - image: "assets/img/testimonials/testi4-2.jpg"
-      name: "Cristina Catana"
-      role: "CEO SRB"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  items:
+#    - image: "assets/img/testimonials/testi4-2.jpg"
+#      name: "Cristina Catana"
+#      role: "CEO SRB"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-1.jpg"
-      name: "Alin Mechenici"
-      role: "CEO Chenist"
-      text: "Sustin educatia din Romania si contribui cu servicii de securitate informatica, deoarece viitorul trebuie protejat."
+#    - image: "assets/img/testimonials/testi4-1.jpg"
+#      name: "Alin Mechenici"
+#      role: "CEO Chenist"
+#      text: "Sustin educatia din Romania si contribui cu servicii de securitate informatica, deoarece viitorul trebuie protejat."
 
-    - image: "assets/img/testimonials/testi4-4.jpg"
-      name: "Stefan Cherciu "
-      role: "Owner QFort"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#    - image: "assets/img/testimonials/testi4-4.jpg"
+#      name: "Stefan Cherciu "
+#      role: "Owner QFort"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-3.jpg"
-      name: "Andreea Iovita"
-      role: "Psiholog"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#    - image: "assets/img/testimonials/testi4-3.jpg"
+#      name: "Andreea Iovita"
+#      role: "Psiholog"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-5.jpg"
-      name: "Florin Sanda"
-      role: "Serial Antreprenor"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#    - image: "assets/img/testimonials/testi4-5.jpg"
+#      name: "Florin Sanda"
+#      role: "Serial Antreprenor"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ### Pricing [ pricing ]
@@ -187,44 +187,63 @@ pricing:
   bg_title: "Pricing"
 
   items:
-    - name: "Lunar / card"
+    - name: "Lunar "
       center: false
       price: "39 <b>RON</b>"
       price_after: "Lunar"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+      text: "..."
       list:
-        - value: "Brand Design"
+        - value: "..."
           included: true
-        - value: "Web Development"
+        - value: "..."
           included: true
-        - value: "Advertising"
+        - value: "..."
           included: false
-        - value: "Photography"
+        - value: "..."
           included: false
       button:
-        label: "Start Project"
+        label: "Alege"
+        link: "#contact-section"
+
+    - name: "Trimestrial / card"
+      center: true
+      label: "Popular"
+      price: "120 <b>RON</b>"
+      price_after: "Week"
+      text: "..."
+      list:
+        - value: "..."
+          included: true
+        - value: "..."
+          included: true
+        - value: "..."
+          included: true
+        - value: "..."
+          included: false
+      button:
+        label: "Alege"
         link: "#contact-section"
 
     - name: "Anual / card"
       center: true
       label: "Popular"
-      price: "259 <b>RON</b>"
+      price: "500 <b>RON</b>"
       price_after: "Week"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+      text: "..."
       list:
-        - value: "Brand Design"
+        - value: "..."
           included: true
-        - value: "Web Development"
+        - value: "..."
           included: true
-        - value: "Advertising"
+        - value: "..."
           included: true
-        - value: "Photography"
+        - value: "..."
           included: false
       button:
-        label: "Start Project"
+        label: "Alege"
         link: "#contact-section"
 
-    #- name: "5 ani"
+    #- name: "Anual"
     #  center: false
     #  price: "1.249 <b>RON</b>"
     #  price_after: "5 ani"
@@ -246,9 +265,9 @@ pricing:
 ### Blog [ blog ]
 #items generates from dir /_posts/*
 blog:
-  title: "Parteneri"
-  subtitle: "Stiri <b>si sfaturi</b>"
-  bg_title: "Parteneri"
+  title: "Beneficii"
+  subtitle: "Ofera <b>si primeste</b>"
+  bg_title: "Beneficii"
   button:
     label: "Vezi parteneri"
     link: "blog/"
@@ -278,7 +297,7 @@ contacts:
 portfolio:
   title: "Parteneri"
   subtitle: "Beneficii <b>oferite de...</b>"
-  bg_title: "Portfolio"
+  bg_title: "Mai mult"
   button:
     link: "works/"
     label: "View More"
