@@ -5,36 +5,18 @@ title: Renamed
 category: Sanatate
 category_slug: photography
 image: assets/img/logos/renamed.png
-short_description: 
+short_description: "- 10% reducere analize laborator"
 
 # full details
-live_preview: https://chenist.academy/kids/
-full_image: assets/img/works/single1.jpg
+live_preview:
 info:
   - label: Reducere
-    value: 10%
-
-  - label: Educatie
-    value: Consultanta, Training
+    value: 10% reducere
 
 description1:
   show: yes
-  title: Servicii
+  title: "- 10% discount"
   text: "<p>.</p>
-  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
-
-gallery:
-  - assets/img/works/work5.jpeg
-  - assets/img/blog/blog8.jpg
-  - assets/img/blog/blog6.jpg
-
-description2:
-  title: Video
-  text: "<p>
-  </p>"
-
-video:
-  poster: assets/img/blog/blog9.jpg
-  id: c10hOnwQFaQ
+  "
 
 ---

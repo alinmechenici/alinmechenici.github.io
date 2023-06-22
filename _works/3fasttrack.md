@@ -5,7 +5,11 @@ title: Fast Track
 category: Educatie
 category_slug: ui-ux-design
 image: assets/img/logos/ftk.png
-short_description: 
+short_description: "
+- 10% taxă lunară pentru toate modulele FTK
+<br>- 1 lecție gratuită
+<br>- 1 Evaluare a Potențialului de Învățare în valoare de 400 lei
+<br>- 1 sesiune individuală de consiliere parentală"
 
 # full details
 live_preview: https://fastrackids.ro/

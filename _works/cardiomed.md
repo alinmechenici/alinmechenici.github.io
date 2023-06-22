@@ -5,36 +5,23 @@ title: Cardiomed
 category: Sanatate
 category_slug: photography
 image: assets/img/logos/cardiomed.png
-short_description: 
+short_description:  "- 10% ecografii
+<br> - 5% proceduri de recuperare medicala/fizioterapie"
 
 # full details
-live_preview: https://chenist.academy/kids/
-full_image: assets/img/works/single1.jpg
+live_preview:
 info:
   - label: Reducere
-    value: 10%
+    value: 10% ecografii
 
-  - label: Educatie
-    value: Consultanta, Training
+    - label: Reducere
+    value: 5% proceduri
 
 description1:
   show: yes
-  title: Servicii
+  title: "- 10% ecografii
+<br> - 5% proceduri de recuperare medicala/fizioterapie"
   text: "<p>.</p>
-  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
-
-gallery:
-  - assets/img/works/work5.jpeg
-  - assets/img/blog/blog8.jpg
-  - assets/img/blog/blog6.jpg
-
-description2:
-  title: Video
-  text: "<p>
-  </p>"
-
-video:
-  poster: assets/img/blog/blog9.jpg
-  id: c10hOnwQFaQ
+  "
 
 ---
