@@ -292,7 +292,7 @@ contacts:
       icon: "far fa-address-book"
       text: "07EDUCATIE"
 
-### Portfolio [ portfolio ]
+### Parteneri [ Parteneri ]
 #items generates from dir /_works/*
 portfolio:
   title: "Parteneri"

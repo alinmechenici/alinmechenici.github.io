@@ -34,7 +34,7 @@ email: "cardbenefits@arti.ro"
 description: "Card Benefits"
 author: "Admin"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "edubenefits.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "edubenefits.scoalabritanica.ro" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
@@ -47,7 +47,7 @@ permalink: pretty
 #disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
-formspree_endpoint: "https://formspree.io/f/your_endpoint" # sign up on https://formspree.io/ and create your form endpoint
+formspree_endpoint: "https://formspree.io/f/moqzggly" # sign up on https://formspree.io/ and create your form endpoint
 
 # collections
 collections:

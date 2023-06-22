@@ -26,10 +26,10 @@ main:
   #  url: "#works-section"
   #  parent: 0
 
-  # Resume
-  #- title: "Resume"
-  #  url: "#resume-section"
-  #  parent: 0
+  # Despre
+  - title: "Despre"
+    url: "#resume-section"
+    parent: 0
 
   # Testimonials
   - title: "Beneficii"
