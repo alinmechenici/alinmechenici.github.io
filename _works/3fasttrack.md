@@ -8,33 +8,28 @@ image: assets/img/logos/ftk.png
 short_description: 
 
 # full details
-live_preview: https://chenist.academy/kids/
-full_image: assets/img/works/single1.jpg
+live_preview: https://fastrackids.ro/
+full_image: assets/img/works/FasTracKids.png
 info:
   - label: Reducere
-    value: 10%
+    value: 10% taxa lunara
 
-  - label: Educatie
-    value: Consultanta, Training
+  - label: Gratuit
+    value: 1 lectie
 
 description1:
-  show: yes
-  title: Servicii
-  text: "<p>.</p>
-  "
+  title: Reduceri
+  text: 
+  text: "  
+1 lecție gratuită
+1 Evaluare a Potențialului de Învățare în valoare de 400 lei
+1 sesiune individuală de consiliere parentală"
 
-gallery:
-  - assets/img/works/work5.jpeg
-  - assets/img/blog/blog8.jpg
-  - assets/img/blog/blog6.jpg
 
 description2:
   title: Video
   text: "<p>
   </p>"
 
-video:
-  poster: assets/img/blog/blog9.jpg
-  id: c10hOnwQFaQ
 
 ---
