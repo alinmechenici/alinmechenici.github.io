@@ -9,7 +9,6 @@ short_description: Acces gratuit pentru Scoala Parintilor
 
 # full details
 live_preview: https://scoalabritanica.ro
-full_image: assets/img/works/SRB-slide8.jpg
 info:
   - label: Reducere
     value: 100%
@@ -19,7 +18,7 @@ info:
 
 description1:
   show: yes
-  title: Acces gratuit la cursurile pentru parintii Scoala Parintilor
+  title: Acces gratuit la cursurile pentru parintii "Scoala Parintilor"
   text: Acces gratuit la cursurile pentru parintii Scoala Parintilor
 
 video:
