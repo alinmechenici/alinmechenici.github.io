@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: CLUBUL SPORTIV MEIYO
-category: Sport
-category_slug: sport
+category: Timp liber
+category_slug: timp-liber
 image: assets/img/logos/meyo.png
 short_description: "- 5 lectii gratuite de auto-aparare
 <br> - 10% discount la abonament lunar"

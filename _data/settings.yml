@@ -51,9 +51,6 @@ portfolio:
     - name: "Transport"
       slug: "transport"
 
-    - name: "Sport"
-      slug: "sport"
-
     - name: "Produse"
       slug: "produse"
 
