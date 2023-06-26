@@ -1,14 +1,14 @@
 ---
 # preview details
 layout: works-single
-title: educatieol
+title: Logiscool
 category: Educatie
 category_slug: educatie
-image: assets/img/logos/educatieol.png
+image: assets/img/logos/logiscool.png
 short_description: "10% taxă lunară pentru programele educaționale"
 
 # full details
-live_preview: https://www.educatieol.com/ro/
+live_preview: https://www.logiscool.ro
 info:
   - label: Reducere
     value: 10%

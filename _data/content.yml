@@ -192,10 +192,10 @@ pricing:
   bg_title: "Preturi"
 
   items:
-    - name: "Lunar / card"
+    - name: "Lunar "
       center: false
       price: "150 <b>RON</b>"
-      price_after: "Lunar"
+      price_after: "/ card"
       text: "Achitarea pachetului se face o singură dată, apoi lunar, până la închiderea abonamentului, contul este debitat cu suma aferentă, fiind transmisă pe email o confirmare de plată."
   #    list:
   #      - value: "..."
@@ -210,11 +210,11 @@ pricing:
         label: "Alege"
         link: "#contact-section"
 
-    - name: "Trimestrial / card"
+    - name: "Trimestrial "
       center: true
       label: "Popular"
       price: "441 <b>RON</b>"
-      price_after: "Week"
+      price_after: "/ card"
       text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
     #    list:
   #      - value: "..."
@@ -229,11 +229,11 @@ pricing:
         label: "Alege"
         link: "#contact-section"
 
-    - name: "Anual / card"
+    - name: "Anual "
       center: true
       label: "Avantajos"
-      price: "500 <b>RON</b>"
-      price_after: "Week"
+      price: "1668 <b>RON</b>"
+      price_after: "/ card"
       text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
       button:
         label: "Alege"
