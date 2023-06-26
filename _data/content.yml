@@ -7,66 +7,71 @@
 hero:
   image: "assets/img/profile2.png"
   image_alt: "SRB"
-  title: "<b>Card</b> EduBenefits"
-  before_title: "Salut, <b>noi suntem</b>"
+  title: "<b>Edu</b>Benefits"
+  before_title: "Primul card de <b>beneficii educaționale</b și de familie din România"
   after_title: "Vino <strong>alaturi de noi!</strong>"
-  description: "Din Craiova, suntem primul card de marketing social."
+  description: "Dacă ești persoană juridică, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
+  <br> Dacă ești persoană fizică și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
+  "
   button1:
-    label: "Inscrie-te!"
+    label: "Aboneaza-te!"
     link: "#"
   button2:
-    label: "Citeste mai mult"
-    link: "#skills-section"
-  bg_title: "Web Developer"
+    label: "Solicita oferta"
+    link: "#contact-section"
+  bg_title: "Despre"
   info:
-    - num: "100 <strong>+</strong>"
+    - num: "130 <strong>+</strong>"
       value: "Beneficii <strong>pentru angajati</strong>"
 
-    - num: "30+"
+    - num: "80+"
       value: "Parteneri <strong>in retea</strong>"
 
 ### Services [ services ]
 services:
   title: "Despre"
   subtitle: "Cardul <b>EduBenefits</b>"
-  bg_title: "Services"
+  bg_title: "Despre"
 
   items:
     - title: "Obiective"
-      subtitle: "Ce ne propunem"
-      text: "Combaterea violenței în școli, imbunatatire procese de planificare, implementare și evaluare a curriculumului românesc, gestionarea comportamentelor, managementul clasei, predarea diferențiată si interactivă, creșterea dragostei pentru învățătură a copiilor, motivarea cadrelor diactice, comunicarea cu părinții, implicarea în comunitate a elevilor. "
-      button_label: "..."
+      subtitle: "Cine suntem"
+      text: "Cardul EduBenefits este un instrument inovator de beneficii extrasalariale dezvoltat de Asociația Română a Tinerilor cu Inițiativă, fiind primul card din România care utilizează marketingul comunitar pentru a finanța programe educaționale precum Școala Româno-Britanică, Stop Analfabetism Drept Moștenire, Școli SMART pentru copii SMART și pentru a oferi în schimb beneficii angajaților sau posibilitatea de fidelizare a clienților.
+ "
+      button_label: "Solutia potrivita"
       button_link: "#pricing-section"
 
-    - title: "Valori si misiune"
+    - title: "Abonati directi"
       subtitle: "De ce suntem aici"
-      text: "Realizându-se astfel o campanie de marketing comunitar la nivelul fiecărei companii implicate, având posibilitatea de a promova public asocierea între firmă și susținerea Fondului de Burse prin lansarea unor subcampanii adresate clienților."
-      button_label: "..."
+      text: "Dacă vrei să susții proiecte educaționale unice și crezi să educația trebuie să arate diferit în următorii ani, poți să te abonezi direct pe site și astfel beneficiezi de zeci de gratuități și reduceri de la partenerii EduBenefits, dar și de ofertele lor periodice! Mai mult, ai posibilitatea să descoperi companiile cele mai implicate social, așa că înveți să consumi produse și servicii de la cei care merită să te aibă drept client!"
+      button_label: "Ce primesti?"
       button_link: "#pricing-section"
 
-    - title: "O retea puternica"
-      subtitle: "Parteneri"
-      text: "Esti singurul din sectorul tau de activitate implicat in campanie. Inscrie-te pana nu o fac altii!"
-      button_label: "..."
+    - title: "Ce primesc companiile?"
+      subtitle: "Companiile abonate"
+      text: "Marketingul comunitar este o activitate comercială prin care companiile, pe cont propriu sau în parteneriat cu o organizație non-profit sau o instituție, promovează o imagine, un produs sau un serviciu, în beneficiul ambelor parți.
+      Marketingul comunitar mai este un mijloc de a folosi puterea unei mărci, precum Școala Româno-Britanică, pentru a demonstra public angajamentul financiar luat de compania respectivă față de problemele sociale cele mai stringente, vizând în același timp și obiectivele de afaceri.
+      "
+      button_label: "Marketing comunitar"
       button_link: "#pricing-section"
 
-    - title: "Conectare"
-      subtitle: "Comunitate"
-      text: "îți oferă posibilitatea de a te conecta cu o mulțime de persoane deosebite: copii, partenerii locali ce oferă beneficiile pentru angajați, proprii colegi prin activitățile de voluntariat."
-      button_label: "..."
-      button_link: "#pricing-section"
+    - title: "M.A.G.I.C"
+      subtitle: "Resurse Umane"
+      text: "Conform Rusty Lindquist si David Mason, afla despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând flipbookul"
+      button_label: "Citeste mai mult"
+      button_link: "https://issuu.com/cristinacatanabuca/docs/magic.pptx "
 
-    - title: "Pentru angajatii tai"
-      subtitle: "Beneficii"
-      text: "Intreaga retea de parteneri ofera beneficii pentru angajatii tai."
-      button_label: "..."
-      button_link: "#pricing-section"
-
-    - title: "Deductibilitate cheltuieli"
+    - title: "Marketing"
       subtitle: "Marketing comunitar"
-      text: "Suntem prima retea din tara ce ofera beneficii de marketing comunitar pentru companiile partenere. Profita!"
+      text: "Termenul de marketing comunitar vorbește de la sine. Scopul său principal este de a implica publicul printr-o conversație neintruzivă. În timp ce strategiile de bază, cum ar fi PR, publicitatea, marketingul de conținut și promoțiile, urmăresc să atragă mai mulți clienți noi, marketingul comunitar este menit să satisfacă nevoile clienților existenți"
       button_label: "..."
       button_link: "#pricing-section"
+
+    - title: "Cunoaste-ne"
+      subtitle: "Scurta prezentare"
+      text: "În 2017 a luat naștere Cardul EduBenefits din dorința de a pune la un loc cei mai importanți actori din comunitate care pot face o diferență prin implicarea lor în zona educațională: mari angajatori, angajați, părinți, profesori, furnizori de produse și servicii din comunitățile locale din România. În prezent, Cardul EduBenefits oferă beneficii în Craiova, Suceava, Galați, Alba Iulia, București, Bacău, Campulung, Constanța, Focșani, Iași, Oradea, Pitești, Râmnicu Vâlcea, Pitești, Slobozia și Timișoara."
+      button_label: "Vezi filmulet"
+      button_link: "https://drive.google.com/file/d/1v_5N0-ycbqM3J_07o5X-IwdM54JdFZAq/view?usp=drive_link "
 
 ### Skills [ skills ]
 #skills:
@@ -184,23 +189,23 @@ services:
 pricing:
   title: "Preturi"
   subtitle: "membership /<b> Card EduBenefits</b>"
-  bg_title: "Pricing"
+  bg_title: "Preturi"
 
   items:
-    - name: "Lunar "
+    - name: "Lunar / card"
       center: false
-      price: "39 <b>RON</b>"
+      price: "150 <b>RON</b>"
       price_after: "Lunar"
-      text: "..."
-      list:
-        - value: "..."
-          included: true
-        - value: "..."
-          included: true
-        - value: "..."
-          included: false
-        - value: "..."
-          included: false
+      text: "Achitarea pachetului se face o singură dată, apoi lunar, până la închiderea abonamentului, contul este debitat cu suma aferentă, fiind transmisă pe email o confirmare de plată."
+  #    list:
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: false
+  #      - value: "..."
+  #        included: false
       button:
         label: "Alege"
         link: "#contact-section"
@@ -208,37 +213,28 @@ pricing:
     - name: "Trimestrial / card"
       center: true
       label: "Popular"
-      price: "120 <b>RON</b>"
+      price: "441 <b>RON</b>"
       price_after: "Week"
-      text: "..."
-      list:
-        - value: "..."
-          included: true
-        - value: "..."
-          included: true
-        - value: "..."
-          included: true
-        - value: "..."
-          included: false
+      text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
+    #    list:
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: false
+  #      - value: "..."
+  #        included: false
       button:
         label: "Alege"
         link: "#contact-section"
 
     - name: "Anual / card"
       center: true
-      label: "Popular"
+      label: "Avantajos"
       price: "500 <b>RON</b>"
       price_after: "Week"
-      text: "..."
-      list:
-        - value: "..."
-          included: true
-        - value: "..."
-          included: true
-        - value: "..."
-          included: true
-        - value: "..."
-          included: false
+      text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
       button:
         label: "Alege"
         link: "#contact-section"
@@ -286,11 +282,11 @@ contacts:
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "cardbenefits@arti.ro"
+      text: "cardbenefits@gmail.com"
 
-    - label: "Phone"
+    - label: "Telefon"
       icon: "far fa-address-book"
-      text: "07EDUCATIE"
+      text: "0771162178"
 
 ### Parteneri [ Parteneri ]
 #items generates from dir /_works/*

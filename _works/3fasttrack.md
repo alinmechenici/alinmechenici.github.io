@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Fast Track
+title: FasTracKids România (19 academii)
 category: Educatie
 category_slug: educatie
 image: assets/img/logos/ftk.png
