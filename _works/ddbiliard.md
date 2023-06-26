@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: D&D Biliard
-category: Distractie
-category_slug: photography
+category: Timp liber
+category_slug: timp-liber
 image: assets/img/logos/dd.png
 short_description: "10% reducere"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/DDbiliardplaystation
 info:
   - label: Reducere
     value: 10% reducere

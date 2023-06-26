@@ -3,7 +3,7 @@
 layout: works-single
 title: Scoala Romano-Britanica
 category: Educatie
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/srb.png
 short_description: " Acces gratuit pentru Scoala Parintilor"
 

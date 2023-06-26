@@ -3,13 +3,13 @@
 layout: works-single
 title: Kids Taxi
 category: Transport
-category_slug: photography
+category_slug: transport
 image: assets/img/logos/kidstaxi.png
 short_description: "20% servicii de transport persoane microbuze si autocare, organizate si regulate
 <br> - 20% pentru abonamentul de transport elevi SRB"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/taxiserviceforkids/
 info:
   - label: Reducere
     value: 20%

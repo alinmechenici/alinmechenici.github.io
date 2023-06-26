@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: FIRST LAND - pensiune canina
-category: Cazare
-category_slug: photography
+category: Animale
+category_slug: animale
 image: assets/img/logos/centruldeeducarecanina.png
 short_description: "20% servicii cazare caini"
 
 # full details
-live_preview:
+live_preview: https://firstland.ro/
 info:
   - label: Reducere
     value: 20% reducere

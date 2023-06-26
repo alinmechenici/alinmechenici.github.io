@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: Kuhl Kiddo
-category: Copii
-category_slug: photography
+category: Timp liber
+category_slug: timp-liber
 image: assets/img/logos/kuhl.png
 short_description:  "10% reducere pentru un interval de 12 ore de pescuit"
 
 # full details
-live_preview:
+live_preview: https://kuhlkiddo.ro/
 info:
   - label: Gratuit
     value: 2 intrari / luna

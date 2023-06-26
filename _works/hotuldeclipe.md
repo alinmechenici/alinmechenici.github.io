@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Hotul de clipe
-category: Photography
-category_slug: photography
+category: Alte servicii
+category_slug: alte-servicii
 image: assets/img/logos/hot.png
 short_description: "- 10% reducere pentru pachetele de servicii foto evenimente
 <br> - 10% reducere pentru sedintele foto de familie"
@@ -13,6 +13,9 @@ live_preview:
 info:
   - label: Reducere
     value: 10% reducere
+
+  - label: Telefon
+    value: 0770774020
 
 description1:
   show: yes

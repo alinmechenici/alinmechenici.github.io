@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: ARD Security
-category: Securitate
-category_slug: photography
+category: servicii
+category_slug: servicii
 image: assets/img/logos/ard.png
 short_description: "10% pentru toate serviciile"
 
 # full details
-live_preview:
+live_preview: https://www.ardsecurity.ro/
 info:
   - label: Reducere
     value: 10% reducere

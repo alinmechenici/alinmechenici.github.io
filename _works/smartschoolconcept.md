@@ -3,13 +3,13 @@
 layout: works-single
 title: Logiscool
 category: Educatie
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/smart.png
 short_description: "- 10% taxă lunară pentru programele educaționale
 <br> - 1 lectie gratuita"
 
 # full details
-live_preview:
+live_preview: https://www.smartschoolconcept.ro/
 info:
   - label: Reducere
     value: 10%

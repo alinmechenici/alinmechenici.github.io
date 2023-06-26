@@ -3,12 +3,12 @@
 layout: works-single
 title: VĂTĂȘESCU BIANCA NICOLETA - CABINET INDIVIDUAL DE PSIHOLOGIE
 category: Sanatate
-category_slug: photography
+category_slug: sanatate
 image: assets/img/logos/biancavatasescu.png
 short_description: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"
 
 # full details
-live_preview:
+live_preview: https://www.la-psiholog.ro/cabinet-individual-de-psihologie-vatasescu-bianca-nicoleta
 info:
   - label: Reducere
     value: 10% 

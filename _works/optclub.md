@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% reducere
 
+info:
+  - label: Telefon
+    value: 0728801013
+
 description1:
   show: yes
   title: "10% reducere "

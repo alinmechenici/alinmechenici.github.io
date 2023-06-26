@@ -3,12 +3,12 @@
 layout: works-single
 title: Cardiomed
 category: Sanatate
-category_slug: photography
+category_slug: sahatate
 image: assets/img/logos/cardiomed.png
 short_description:  "- 10% ecografii <br> - 5% proceduri de recuperare medicala/fizioterapie"
 
 # full details
-live_preview:
+live_preview: https://cardiom.ro/
 info:
   - label: Reducere
     value: 10% ecografii

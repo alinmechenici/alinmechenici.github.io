@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: Nati Olimpia
-category: Reducere
-category_slug: photography
+category: Transport
+category_slug: transport
 image: assets/img/logos/nati.png
 short_description: "10% - servicii de transport marfă, servicii de mutare și relocare"
 
 # full details
-live_preview:
+live_preview: natiolimpia.ro
 info:
   - label: Reducere
     value: 10%

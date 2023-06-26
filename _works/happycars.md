@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: Happy Cars
-category: Spalatorie
-category_slug: photography
+category: Alte servicii
+category_slug: alte-servicii
 image: assets/img/logos/happycars.png
 short_description: "10% reducere"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/HappyCarsCraiova
 info:
   - label: Reducere
     value: 10% reducere

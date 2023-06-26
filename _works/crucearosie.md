@@ -5,17 +5,17 @@ title: Crucea Rosie - Filiala Craiova
 category: Educatie
 category_slug: photography
 image: assets/img/logos/crucearosie.png
-short_description: "10% cursuri de prim ajutor"
+short_description: "10% la cursurile de prim ajutor"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/people/Crucea-Rosie-Filiala-Dolj/100067470582274/
 info:
   - label: Reducere
     value: 10%
 
 description1:
   show: yes
-  title: 10% taxă lunară pentru programele educaționale
+  title: "10% la cursurile de prim ajutor"
   text: "<p>.</p>
   "
 

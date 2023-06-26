@@ -3,12 +3,12 @@
 layout: works-single
 title: Edutic Robotica
 category: Educatie
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/edutic.png
 short_description: "10% taxă lunară pentru programele educaționale"
 
 # full details
-live_preview:
+live_preview: https://matematica-interactiva.ro/
 info:
   - label: Reducere
     value: 10%

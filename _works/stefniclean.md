@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Stefniclean - Curatenie
-category: Curatenie
-category_slug: photography
+category: Servicii
+category_slug: servicii
 image: assets/img/logos/stefniclean.png
 short_description: "10% pentru toate serviciile"
 
@@ -12,6 +12,9 @@ live_preview:
 info:
   - label: Reducere
     value: 10% reducere
+
+  - label: Telefon
+    value: 0761644099 
 
 description1:
   show: yes

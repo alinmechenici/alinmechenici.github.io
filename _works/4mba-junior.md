@@ -3,12 +3,12 @@
 layout: works-single
 title: MBA Junior
 category: Educatie
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/mba.png
 short_description: "10% taxă lunară pentru programele educaționale"
 
 # full details
-live_preview: 
+live_preview: https://www.mbajunior.ro/
 info:
   - label: Reducere
     value: 10% programe educationale

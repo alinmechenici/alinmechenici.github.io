@@ -3,7 +3,7 @@
 layout: works-single
 title: Fast Track
 category: Educatie
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/ftk.png
 short_description: "
 - 10% taxă lunară pentru toate modulele FTK

@@ -3,12 +3,12 @@
 layout: works-single
 title: BebeVesel.ro
 category: Educatie
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/bebevesel.png
 short_description: "10% acces la conferintele de parenting"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/bebevesel.ro/
 info:
   - label: Reducere
     value: 10% acces

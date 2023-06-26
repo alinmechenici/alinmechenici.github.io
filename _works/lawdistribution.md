@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: Law Distribution
-category: Photography
-category_slug: photography
+category: Produse
+category_slug: produse
 image: assets/img/logos/law.png
 short_description: "5% pentru folie stretch, benzi adezive, folii cu bule, folii parchet, colțare carton, polietilena, PVC, poliolefina, benzi de legat PP/PET/PES, carton ondulat, tuburi carton, pungi BOPP, pungi hârtie, sacoșe hârtie/biodegradabile"
 
 # full details
-live_preview:
+live_preview: https://www.lawdistribution.ro/
 info:
   - label: Reducere
     value: 5% reducere

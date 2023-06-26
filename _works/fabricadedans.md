@@ -3,14 +3,14 @@
 layout: works-single
 title: Fabrica de dans
 category: Educatie
-category_slug: photography
+category_slug: educatie
 image: assets/img/logos/fabricadedans.png
 short_description: "- Gratuit - prima sedinta de curs
 <br> - 10% discount cursant
 <br> - 15% discount familii"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/FabricaDeDans/
 info:
   - label: Reducere
     value: 10% lunar

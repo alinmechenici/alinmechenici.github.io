@@ -3,13 +3,13 @@
 layout: works-single
 title: CLUBUL SPORTIV MEIYO
 category: Sport
-category_slug: photography
+category_slug: sport
 image: assets/img/logos/meyo.png
 short_description: "- 5 lectii gratuite de auto-aparare
 <br> - 10% discount la abonament lunar"
 
 # full details
-live_preview:
+live_preview: www.clubulsportivmeiyo.ro
 info:
   - label: Reducere
     value: 10% lunar

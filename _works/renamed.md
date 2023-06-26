@@ -3,12 +3,12 @@
 layout: works-single
 title: Renamed
 category: Sanatate
-category_slug: photography
+category_slug: sanatate
 image: assets/img/logos/renamed.png
 short_description: "- 10% reducere analize laborator"
 
 # full details
-live_preview:
+live_preview: https://www.renamedlaborator.ro/
 info:
   - label: Reducere
     value: 10% reducere

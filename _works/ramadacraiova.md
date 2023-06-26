@@ -3,12 +3,12 @@
 layout: works-single
 title: RAMADA PLAZA CRAIOVA
 category: Ospitalitate
-category_slug: photography
+category_slug: ospitalitate
 image: assets/img/logos/ramada.png
 short_description:  "10% discount la toate serviciile (SPA, evenimente și cazare)"
 
 # full details
-live_preview:
+live_preview: https://www.ramadaplazacraiova.ro/
 info:
   - label: Reducere
     value: 10% 

@@ -3,13 +3,13 @@
 layout: works-single
 title: Salina Fulvia
 category: Sanatate
-category_slug: photography
+category_slug: sanatate
 image: assets/img/logos/salinafulvia.png
 short_description:  "- prima sedinta gratuita copil+insotitor
 <br> - 10% din costul unui abonament"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/salina.fulvia/
 info:
   - label: Reducere
     value: 10% 

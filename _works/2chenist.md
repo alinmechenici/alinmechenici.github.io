@@ -3,12 +3,12 @@
 layout: works-single
 title: CHENIST.Academy 
 category: Cybersecurity
-category_slug: ui-ux-design
+category_slug: educatie
 image: assets/img/logos/chenist.png
 short_description: Oferim reducere 10% la serviciile CHENIST si CHENIST Academy.
 
 # full details
-live_preview: https://chenist.academy/kids/
+live_preview: https://chenist.academy/ro/
 full_image: assets/img/works/single1.jpg
 info:
   - label: Reducere

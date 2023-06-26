@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: Indiscret Media
-category: Media
-category_slug: photography
+category: Servicii
+category_slug: servicii
 image: assets/img/logos/indiscret.png
 short_description: "30% reducere pt anunturi mass media"
 
 # full details
-live_preview:
+live_preview: https://www.indiscret.ro/
 info:
   - label: Reducere
     value: 30% reducere

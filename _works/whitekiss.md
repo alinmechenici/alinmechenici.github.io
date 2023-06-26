@@ -3,14 +3,14 @@
 layout: works-single
 title: White Kiss
 category: Sanatate
-category_slug: photography
+category_slug: sanatate
 image: assets/img/logos/white.png
 short_description:  "- 1 consultație stomatologică gratuită/an
 <br> - 1 igienizare gratuită (detartraj+periaj)/ an
 <br> - discount de 5% la pretul de lista"
 
 # full details
-live_preview:
+live_preview: https://www.whitekiss.ro
 info:
   - label: Reducere
     value: 5% 

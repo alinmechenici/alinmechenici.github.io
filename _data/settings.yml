@@ -34,13 +34,37 @@ portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:
     - name: "Educatie"
-      slug: "ui-ux-design"
+      slug: "educatie"
 
-    - name: "Medicina"
-      slug: "photography"
+    - name: "sanatate"
+      slug: "sanatate"
 
     - name: "Servicii"
-      slug: "development"
+      slug: "servicii"
 
-    - name: "Marketing"
-      slug: "branding"
+    - name: "Ospitalitate"
+      slug: "ospitalitate"
+
+    - name: "Timp liber"
+      slug: "timp-liber"
+
+    - name: "Transport"
+      slug: "transport"
+
+    - name: "Sport"
+      slug: "sport"
+
+    - name: "Produse"
+      slug: "produse"
+
+    - name: "Animale"
+      slug: "animale"
+
+    - name: "Servicii firme"
+      slug: "servicii"
+
+    - name: "Alte servicii"
+      slug: "alte-servicii"
+
+    - name: "Constructii / amenajari"
+      slug: "constructii"

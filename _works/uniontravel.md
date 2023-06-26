@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: Union Business Travel
-category: Calatorii
-category_slug: photography
+category: Transport
+category_slug: transport
 image: assets/img/logos/ubt.png
 short_description: "25% discount pentru cursele rezervate"
 
 # full details
-live_preview:
+live_preview: https://drive.google.com/file/d/14pVXnwFpQhf9SJQsEMLDxUBN2CKgmlIz/view?usp=drive_link 
 info:
   - label: Reducere
     value: 25%

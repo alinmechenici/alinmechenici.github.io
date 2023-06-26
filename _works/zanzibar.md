@@ -3,7 +3,7 @@
 layout: works-single
 title: ZANZIBAR
 category: Ospitalitate
-category_slug: photography
+category_slug: ospitalitate
 image: assets/img/logos/zanzibar.png
 short_description: "10% pentru următoarele servicii:
 <br> - Organizare de evenimente
@@ -12,7 +12,7 @@ short_description: "10% pentru următoarele servicii:
 <br> - Cursuri de înot"
 
 # full details
-live_preview:
+live_preview: https://zanzibarpub.ro/
 info:
   - label: Reducere
     value: 10% 

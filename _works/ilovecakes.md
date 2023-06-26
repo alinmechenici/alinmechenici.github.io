@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: I LOVE CAKES – Brioșerie
-category: Mancare
-category_slug: photography
+category: Ospitalitate
+category_slug: ospitalitate
 image: assets/img/logos/ilovecakes.png
 short_description:  "10% la deserturile din brioșerie, la candy bar-uri și la torturi"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/ilovecakescraiova/
 info:
   - label: Reducere
     value: 10% 

@@ -2,13 +2,13 @@
 # preview details
 layout: works-single
 title: LOU LOU MACARONS
-category: Mancare
-category_slug: photography
+category: Ospitalitate
+category_slug: ospitalitate
 image: assets/img/logos/loulou.png
 short_description: "10% candy bar si torturi"
 
 # full details
-live_preview:
+live_preview: https://www.facebook.com/louloumacaron.ro/
 info:
   - label: Reducere
     value: 10%
