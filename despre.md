@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Despre
+date:   2023-07-29
+category: Design
+image: assets/img/blog/blog8.jpg
+author: Cristina
+tags: despre
 ---
+
 
 <br>
 <h2>Cine suntem</h2>
@@ -71,7 +77,8 @@ Cardul EduBenefits este oferit companiilor ca beneficiu al contractării servici
 Rusty Lindquist și David Mason au scris “The Book on Engagement” în care au definit instrumentul M.A.G.I.C., ca urmare a peste 20 de ani de cercetare în domeniul Resurselor Umane. Ei au demonstrat cum o simplă satisfacție contractuală poată să producă în rândul angajaților doar o implicare tranzacțională (primești conform lucrurilor pe care le dai), dar și cum lucrurile se transformă în rândul angajaților atunci când implicarea lor accesează nivelul credințelor proprii (inimă, spirit, minte și mâini) și înțeleg că fac parte din ceva mult mai mare.
 
 <br>
- Detalii despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând: https://issuu.com/cristinacatanabuca/docs/magic.pptx 
+ Detalii despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând: <p><a href="https://issuu.com/cristinacatanabuca/docs/magic.pptx">flipbook-ul</a> <em class="info"></em></p>.
+
 
 <br><br>
 <h2>Marketing</h2>
@@ -87,3 +94,8 @@ Asociația Română a Tinerilor cu Inițiativă îți oferă posibilitatea să t
 <h3>Scurta prezentare</h3>
 <br>
 În 2017 a luat naștere Cardul EduBenefits din dorința de a pune la un loc cei mai importanți actori din comunitate care pot face o diferență prin implicarea lor în zona educațională: mari angajatori, angajați, părinți, profesori, furnizori de produse și servicii din comunitățile locale din România. În prezent, Cardul EduBenefits oferă beneficii în Craiova, Suceava, Galați, Alba Iulia, București, Bacău, Campulung, Constanța, Focșani, Iași, Oradea, Pitești, Râmnicu Vâlcea, Pitești, Slobozia și Timișoara. 
+<br><br>
+
+<iframe width="955" height="537" src="https://www.youtube.com/embed/1nRR_hq_qeo" title="Povestea Cardului EduBenefits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
