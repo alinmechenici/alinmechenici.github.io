@@ -8,10 +8,10 @@ hero:
   image: "assets/img/profile2.png"
   image_alt: "SRB"
   title: "<b>Edu</b>Benefits"
-  before_title: "Primul card de <b>beneficii educaționale</b și de familie din România"
+  before_title: "Primul card de <b>beneficii educaționale</b> și de familie din România"
   after_title: "Vino <strong>alaturi de noi!</strong>"
-  description: "Dacă ești persoană juridică, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
-  <br> Dacă ești persoană fizică și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
+  description: "Dacă ești persoană <b>juridică</b>, promoveaza-ți initiativele, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
+  <br> Dacă ești persoană <b>fizică</b> și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
   "
   button1:
     label: "Aboneaza-te!"
