@@ -4,7 +4,7 @@ layout: works-single
 title: Cazare Bliss
 category: Ospitalitate
 category_slug: ospitalitate
-image: assets/img/logos/bliss.png
+image: assets/img/logos/dubova.jpeg
 short_description: "10% reducere la pachetelor de cazare și masă"
 
 # full details
@@ -17,5 +17,4 @@ description1:
   title: "10% reducere la pachetelor de cazare și masă"
   text: "<p>.</p>
   "
-
 ---
