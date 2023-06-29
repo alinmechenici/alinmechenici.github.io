@@ -13,9 +13,7 @@ Obiectivul cardului este de a oferi angajaților sau persoanelor fizice care se 
 Echipa de dezvoltare și parteneri este compusă din experți în resurse umane, marketing, educație și afaceri. Împreună, ei lucrează pentru a oferi un instrument de beneficii extrasalariale inovator și eficient, care să aducă beneficii atât persoanelor fizice independente, angajaților, cât și angajatorilor.
 
 <br> <br> 
-
 <h2>Ce primesti?</h2>
-
 <br> <br> 
 
 Dacă vrei să susții proiecte educaționale unice și crezi să educația trebuie să arate diferit în următorii ani, poți să te abonezi direct pe site și astfel beneficiezi de zeci de gratuități și reduceri de la partenerii EduBenefits, dar și de ofertele lor periodice! 
@@ -24,6 +22,7 @@ Dacă vrei să susții proiecte educaționale unice și crezi să educația treb
 
 Mai mult, ai posibilitatea să descoperi companiile cele mai implicate social, așa că înveți să consumi produse și servicii de la cei care merită să te aibă drept client!
 
+<br> <br> 
 <h2>Ce primesc companiile?</h2>
 
 Marketingul comunitar este o activitate comercială prin care companiile, pe cont propriu sau în parteneriat cu o organizație non-profit sau o instituție, promovează o imagine, un produs sau un serviciu, în beneficiul ambelor parți.
@@ -57,26 +56,27 @@ a) cheltuielile de reclamă și publicitate efectuate în scopul popularizării 
 c) cheltuielile pentru marketing, studiul pieței, promovarea pe piețele existente sau noi, participarea la târguri și expoziții, la misiuni de afaceri, editarea de materiale informative proprii;
 <br>
 Cardul EduBenefits este oferit companiilor ca beneficiu al contractării serviciilor de marketing comunitar, astfel compania având posibilitatea să își promoveze implicarea socială în comunitate și să creeze o fidelizare de cauză cu majoritatea clienților proprii. Cheltuielile pentru serviciile de marketing comunitar sunt 100% deductibile.
-<h2> De ce este Cardul EduBenefits M.A.G.I.C. pentru companii? </h2>
+
+<br> <br> 
+<h2>RESURSE UMANE</h2>
+<h3> De ce este Cardul EduBenefits M.A.G.I.C. pentru companii? </h3>
 <br>
 Rusty Lindquist și David Mason au scris “The Book on Engagement” în care au definit instrumentul M.A.G.I.C., ca urmare a peste 20 de ani de cercetare în domeniul Resurselor Umane. Ei au demonstrat cum o simplă satisfacție contractuală poată să producă în rândul angajaților doar o implicare tranzacțională (primești conform lucrurilor pe care le dai), dar și cum lucrurile se transformă în rândul angajaților atunci când implicarea lor accesează nivelul credințelor proprii (inimă, spirit, minte și mâini) și înțeleg că fac parte din ceva mult mai mare.
 
 <br>
- Detalii despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând flipbookul acesta: https://issuu.com/cristinacatanabuca/docs/magic.pptx
+ Detalii despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând: https://issuu.com/cristinacatanabuca/docs/magic.pptx .
 
-<br>
-
+<br><br>
 <h2>Marketing</h2>
 <h3>Marketingul comunitar</h3>
-
 <br>
-
 Termenul de marketing comunitar vorbește de la sine. Scopul său principal este de a implica publicul printr-o conversație neintruzivă. În timp ce strategiile de bază, cum ar fi PR, publicitatea, marketingul de conținut și promoțiile, urmăresc să atragă mai mulți clienți noi, marketingul comunitar este menit să satisfacă nevoile clienților existenți. 
 <br>
 Cu alte cuvinte, prin acest tip de marketing construiești relații puternice pe termen lung cu clienții tăi, punându-i pe ei pe primul loc și promovând în rândul lor implicarea companiei în probleme stringente precum educația copiilor. 
 <br>
 Asociația Română a Tinerilor cu Inițiativă îți oferă posibilitatea să te asociezi cu proiecte educaționale promovându-te în acest sens ca fiind un actor social activ în comunitate și relevant pentru clienții tăi.
-<br>
+<br><br>
 <h2>CUNOAȘTE-NE!</h2>
-
+<h3>Scurta prezentare</h3>
+<br>
 În 2017 a luat naștere Cardul EduBenefits din dorința de a pune la un loc cei mai importanți actori din comunitate care pot face o diferență prin implicarea lor în zona educațională: mari angajatori, angajați, părinți, profesori, furnizori de produse și servicii din comunitățile locale din România. În prezent, Cardul EduBenefits oferă beneficii în Craiova, Suceava, Galați, Alba Iulia, București, Bacău, Campulung, Constanța, Focșani, Iași, Oradea, Pitești, Râmnicu Vâlcea, Pitești, Slobozia și Timișoara. 

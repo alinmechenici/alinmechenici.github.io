@@ -34,17 +34,17 @@ services:
   bg_title: "Despre"
 
   items:
-    - title: "Obiective"
+    - title: "Solutia potrivita"
       subtitle: "Cine suntem"
       text: "Cardul EduBenefits este un instrument inovator de beneficii extrasalariale dezvoltat de Asociația Română a Tinerilor cu Inițiativă, fiind primul card din România care utilizează marketingul comunitar pentru a finanța programe educaționale precum Școala Româno-Britanică, Stop Analfabetism Drept Moștenire, Școli SMART pentru copii SMART și pentru a oferi în schimb beneficii angajaților sau posibilitatea de fidelizare a clienților.
  "
-      button_label: "Solutia potrivita"
+      button_label: "Detalii"
       button_link: "/despre"
 
-    - title: "Abonati directi"
-      subtitle: "De ce suntem aici"
+    - title: "Ce primesti?"
+      subtitle: "Abonatii directi"
       text: "Dacă vrei să susții proiecte educaționale unice și crezi să educația trebuie să arate diferit în următorii ani, poți să te abonezi direct pe site și astfel beneficiezi de zeci de gratuități și reduceri de la partenerii EduBenefits, dar și de ofertele lor periodice! Mai mult, ai posibilitatea să descoperi companiile cele mai implicate social, așa că înveți să consumi produse și servicii de la cei care merită să te aibă drept client!"
-      button_label: "Ce primesti?"
+      button_label: "Detalii"
       button_link: "/despre"
 
     - title: "Ce primesc companiile?"
@@ -52,23 +52,23 @@ services:
       text: "Marketingul comunitar este o activitate comercială prin care companiile, pe cont propriu sau în parteneriat cu o organizație non-profit sau o instituție, promovează o imagine, un produs sau un serviciu, în beneficiul ambelor parți.
       Marketingul comunitar mai este un mijloc de a folosi puterea unei mărci, precum Școala Româno-Britanică, pentru a demonstra public angajamentul financiar luat de compania respectivă față de problemele sociale cele mai stringente, vizând în același timp și obiectivele de afaceri.
       "
-      button_label: "Marketing comunitar"
+      button_label: "Detalii"
       button_link: "/despre"
 
     - title: "M.A.G.I.C"
       subtitle: "Resurse Umane"
       text: "Conform Rusty Lindquist si David Mason, afla despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând flipbookul"
-      button_label: "Citeste mai mult"
+      button_label: "Detalii"
       button_link: "https://issuu.com/cristinacatanabuca/docs/magic.pptx "
 
-    - title: "Marketing"
-      subtitle: "Marketing comunitar"
+    - title: "Marketing comunitar"
+      subtitle: "Marketing"
       text: "Termenul de marketing comunitar vorbește de la sine. Scopul său principal este de a implica publicul printr-o conversație neintruzivă. În timp ce strategiile de bază, cum ar fi PR, publicitatea, marketingul de conținut și promoțiile, urmăresc să atragă mai mulți clienți noi, marketingul comunitar este menit să satisfacă nevoile clienților existenți"
-      button_label: "..."
+      button_label: "Detalii"
       button_link: "/despre"
 
-    - title: "Cunoaste-ne"
-      subtitle: "Scurta prezentare"
+    - title: "Scurta prezentare"
+      subtitle: "Cunoaste-ne"
       text: "În 2017 a luat naștere Cardul EduBenefits din dorința de a pune la un loc cei mai importanți actori din comunitate care pot face o diferență prin implicarea lor în zona educațională: mari angajatori, angajați, părinți, profesori, furnizori de produse și servicii din comunitățile locale din România. În prezent, Cardul EduBenefits oferă beneficii în Craiova, Suceava, Galați, Alba Iulia, București, Bacău, Campulung, Constanța, Focșani, Iași, Oradea, Pitești, Râmnicu Vâlcea, Pitești, Slobozia și Timișoara."
       button_label: "Vezi filmulet"
       button_link: "https://drive.google.com/file/d/1v_5N0-ycbqM3J_07o5X-IwdM54JdFZAq/view?usp=drive_link "
