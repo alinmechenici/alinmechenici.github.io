@@ -4,7 +4,7 @@ layout: works-single
 title: New Way Management Consultanta Proiecte
 category: Servicii
 category_slug: servicii
-image: assets/img/logos/nwmcp.png
+image: assets/img/logos/nw.png
 short_description: "-consultanță gratuită pentru identificarea unei oportunități de finanțare
 <br> -scrierea unei cereri de finanțare fără avans, doar cu introducerea costurilor pentru serviciile de consultanță în bugetul proiectului
 "
