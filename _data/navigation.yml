@@ -55,18 +55,18 @@ main:
 
 
   # Additional Pages
-  - title: "Aboneaza-te!"
-    url: ""
-    parent: 1
-    childs:
-        - title: "Individual"
-          url: "https://edubenefits.scoalabritanica.ro/individual/"
+  #- title: "Aboneaza-te!"
+  #  url: ""
+  #  parent: 1
+  #  childs:
+  #      - title: "Individual"
+  #        url: "https://edubenefits.scoalabritanica.ro/individual/"
 
-        - title: "Grup"
-          url: "https://edubenefits.scoalabritanica.ro/grup/"
+  #      - title: "Grup"
+  #        url: "https://edubenefits.scoalabritanica.ro/grup/"
 
   # Pricing
-  - title: "Preturi"
+  - title: "Aboneaza-te"
     url: "#pricing-section"
     parent: 0
 
