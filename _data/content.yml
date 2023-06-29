@@ -10,7 +10,7 @@ hero:
   title: "<b>Edu</b>Benefits"
   before_title: "Primul card de <b>beneficii educaționale</b> și de familie din România"
   after_title: "Vino <strong>alaturi de noi!</strong>"
-  description: "Dacă ești persoană <b>juridică</b>, promoveaza-ți initiativele, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
+  description: "Dacă ești persoană <b>juridică</b>, promovează-ți initiațivele, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
   <br> Dacă ești persoană <b>fizică</b> și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
   "
   button1:
@@ -282,7 +282,7 @@ contacts:
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "cardbenefits@gmail.com"
+      text: "edubenefits@gmail.com"
 
     - label: "Telefon"
       icon: "far fa-address-book"
