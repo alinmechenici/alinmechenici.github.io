@@ -10,7 +10,6 @@ tags: ofera
 
 <br>
 <h2>Ofera beneficii</h2>
-<h3>Solutia potrivita pentru compania ta</h3>
 <br>
 
 Ofera si tu beneficii pentru reteaua EduBenefits. Poti face asta completand formularul de mai jos:
