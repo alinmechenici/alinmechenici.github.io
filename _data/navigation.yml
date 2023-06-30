@@ -48,7 +48,7 @@ main:
     parent: 1
     childs:
         - title: "Ofera Beneficii"
-          url: "https://edubenefits.scoalabritanica.ro/beneficii/2023/06/20/ofera-beneficii/"
+          url: "https://edubenefits.scoalabritanica.ro/ofera/"
 
         - title: "Vezi Beneficii"
           url: "#works"
