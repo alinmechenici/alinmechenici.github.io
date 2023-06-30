@@ -71,8 +71,12 @@ main:
     parent: 0
 
     # Valabilitate
-  - title: "Verifica valabilitate"
-    url: "#"
+  - title: "Verifica valabilitate card"
+    url: "https://british-school.profixcard.ro/card-check/"
+    parent: 0
+
+  - title: "Verifica valabilitate abonament"
+    url: "https://british-school.profixcard.ro/subscription-check/"
     parent: 0
 
   # Contact
