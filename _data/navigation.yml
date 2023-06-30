@@ -60,14 +60,14 @@ main:
   #  parent: 1
   #  childs:
   #      - title: "Individual"
-  #        url: "https://edubenefits.scoalabritanica.ro/individual/"
+  #        url: "https://british-school.profixcard.ro/inregistrare"
 
   #      - title: "Grup"
-  #        url: "https://edubenefits.scoalabritanica.ro/grup/"
+  #        url: "https://british-school.profixcard.ro/inregistrare"
 
   # Pricing
   - title: "Aboneaza-te"
-    url: "#pricing-section"
+    url: "https://british-school.profixcard.ro/inregistrare"
     parent: 0
 
     # Valabilitate

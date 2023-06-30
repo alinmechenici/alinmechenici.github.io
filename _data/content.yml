@@ -260,13 +260,13 @@ pricing:
 
 ### Blog [ blog ]
 #items generates from dir /_posts/*
-blog:
-  title: "Beneficii"
-  subtitle: "Ofera <b>si primeste</b>"
-  bg_title: "Beneficii"
-  button:
-    label: "Vezi parteneri"
-    link: "blog/"
+#blog:
+#  title: "Beneficii"
+#  subtitle: "Ofera <b>si primeste</b>"
+#  bg_title: "Beneficii"
+#  button:
+#    label: "Vezi parteneri"
+#    link: "blog/"
 
 
 ### Contact [ contacts ]
