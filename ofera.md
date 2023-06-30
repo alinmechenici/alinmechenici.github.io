@@ -32,6 +32,10 @@ Ofera si tu beneficii pentru reteaua EduBenefits. Poti face asta completand form
   </label>
    <label for="note">Descriere activitate derulata</label>
     <textarea rows="2" name="note" id="note" placeholder="Un text de maximum 20 de cuvinte."></textarea>
+  <label>
+    Logo-ul companiei (.png):
+    <input type="file" name="upload">
+  </label>
    </label>
     <label for="note">Oferta pentru clientii Edubenefits</label>
     <textarea rows="2" name="note" id="note" placeholder="Ex: reducere 10% la ... /Gratuit o sesiune ..."></textarea>
@@ -45,11 +49,6 @@ Ofera si tu beneficii pentru reteaua EduBenefits. Poti face asta completand form
     <label for="note">Numar de telefon</label>
     <textarea rows="2" name="note" id="note" placeholder="Ex: Numarul unde clientii va pot apela"></textarea>
    </label>
-  
-  <label>
-    Logo-ul (.png):
-    <input type="file" name="upload">
-  </label>
 
   <button type="submit">Trimite</button>
 </form>
