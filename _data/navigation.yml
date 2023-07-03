@@ -80,7 +80,7 @@ main:
   #  url: "https://british-school.profixcard.ro/card-check/"
   #  parent: 0
 
-  - title: "Verifica valabilitate abonament"
+  - title: "Verifica valabilitate"
     url: "https://british-school.profixcard.ro/subscription-check/"
     parent: 0
 
