@@ -43,15 +43,15 @@ main:
 
   
   # Additional Pages
-  - title: "Beneficii"
-    url: ""
-    parent: 1
-    childs:
-        - title: "Ofera Beneficii"
-          url: "https://edubenefits.scoalabritanica.ro/ofera/"
+  #- title: "Beneficii"
+  #  url: ""
+  #  parent: 1
+  #  childs:
+  #      - title: "Ofera Beneficii"
+  #        url: "https://edubenefits.scoalabritanica.ro/ofera/"
 
-        - title: "Vezi Beneficii"
-          url: "#works"
+  #      - title: "Vezi Beneficii"
+  #        url: "#works"
 
 
   # Additional Pages
@@ -65,15 +65,20 @@ main:
   #      - title: "Grup"
   #        url: "https://british-school.profixcard.ro/inregistrare"
 
+   # Pricing
+  - title: "Ofera beneficii"
+    url: "https://edubenefits.scoalabritanica.ro/ofera/"
+    parent: 0
+
   # Pricing
-  - title: "Aboneaza-te"
-    url: "https://british-school.profixcard.ro/inregistrare"
+  - title: "Vezi Beneficii"
+    url: "#works"
     parent: 0
 
     # Valabilitate
-  - title: "Verifica valabilitate card"
-    url: "https://british-school.profixcard.ro/card-check/"
-    parent: 0
+  #  - title: "Verifica valabilitate card"
+  #  url: "https://british-school.profixcard.ro/card-check/"
+  #  parent: 0
 
   - title: "Verifica valabilitate abonament"
     url: "https://british-school.profixcard.ro/subscription-check/"
