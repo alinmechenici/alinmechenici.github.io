@@ -75,6 +75,12 @@ main:
     url: "#works"
     parent: 0
 
+     # Aboneaza-te!
+  - title: "Aboneaza-te!"
+    url: "https://british-school.profixcard.ro/inregistrare/"
+    parent: 0
+
+
     # Valabilitate
   #  - title: "Verifica valabilitate card"
   #  url: "https://british-school.profixcard.ro/card-check/"
