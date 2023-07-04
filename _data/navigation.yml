@@ -40,7 +40,6 @@ main:
   #- title: "Vezi Beneficii"
   #  url: "#blog-section"
   #  parent: 0
-
   
   # Additional Pages
   #- title: "Beneficii"
@@ -51,8 +50,7 @@ main:
   #        url: "https://edubenefits.scoalabritanica.ro/ofera/"
 
   #      - title: "Vezi Beneficii"
-  #        url: "#works"
-
+  #        url: "https://edubenefits.scoalabritanica.ro/works"
 
   # Additional Pages
   #- title: "Aboneaza-te!"
@@ -72,7 +70,7 @@ main:
 
   # Pricing
   - title: "Vezi Beneficii"
-    url: "#works"
+    url: "https://edubenefits.scoalabritanica.ro/works/"
     parent: 0
 
      # Aboneaza-te!
@@ -80,8 +78,7 @@ main:
     url: "https://british-school.profixcard.ro/inregistrare/"
     parent: 0
 
-
-    # Valabilitate
+  # Valabilitate
   #  - title: "Verifica valabilitate card"
   #  url: "https://british-school.profixcard.ro/card-check/"
   #  parent: 0
