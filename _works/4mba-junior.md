@@ -15,11 +15,6 @@ info:
   - label: Contact
     value: <a href="https://www.mbajunior.ro" target="_blank">Website</a>
 
-
-  - label: Contact
-    value: <a href="https://www.mbajunior.ro/" target="_blank">Website</a>
-
-
 description1:
   show: yes
   title: Reducere 10% la programe educationale
