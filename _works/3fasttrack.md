@@ -22,18 +22,10 @@ info:
     value: 1 lectie
 
 description1:
-  title: Reduceri
+  title: "Reduceri: 
+        <br> 1 lecție gratuită 
+        <br> 1 Evaluare a Potențialului de Învățare în valoare de 400 lei
+        <br> 1 sesiune individuală de consiliere parentală"
   text: 
-  text: "  
-1 lecție gratuită
-1 Evaluare a Potențialului de Învățare în valoare de 400 lei
-1 sesiune individuală de consiliere parentală"
-
-
-description2:
-  title: Video
-  text: "<p>
-  </p>"
-
 
 ---
