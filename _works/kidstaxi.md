@@ -14,6 +14,10 @@ info:
   - label: Reducere
     value: 20%
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/taxiserviceforkids/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 20% servicii de transport persoane microbuze si autocare, organizate si regulate

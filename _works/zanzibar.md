@@ -16,6 +16,10 @@ live_preview: https://zanzibarpub.ro/
 info:
   - label: Reducere
     value: 10% 
+  - label: Contact
+    value: <a href="https://zanzibarpub.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% pentru următoarele servicii:

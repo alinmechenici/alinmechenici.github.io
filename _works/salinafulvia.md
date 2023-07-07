@@ -16,6 +16,10 @@ info:
 
   - label: Gratuit
     value: prima sedinta
+  - label: Contact
+    value: <a href="https://www.facebook.com/salina.fulvia/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- prima sedinta gratuita copil+insotitor

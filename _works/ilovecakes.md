@@ -14,6 +14,10 @@ info:
     value: 10% 
 
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/ilovecakescraiova/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% la deserturile din brioșerie, la candy bar-uri și la torturi"

@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% 
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/psihologultau.ro/?_rdc=2&_rdr" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% psihoterapie individuala"

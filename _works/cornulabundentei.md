@@ -14,6 +14,10 @@ info:
     value: 10% reducere
 
 
+  - label: Contact
+    value: <a href="https://www.cab.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% reducere la toate achizitiile"

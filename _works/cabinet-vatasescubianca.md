@@ -16,6 +16,10 @@ info:
   - label: Gratuit
     value: consultatie
 
+  - label: Contact
+    value: <a href="https://www.la-psiholog.ro/cabinet-individual-de-psihologie-vatasescu-bianca-nicoleta" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"

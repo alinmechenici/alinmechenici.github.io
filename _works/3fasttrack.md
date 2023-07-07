@@ -21,6 +21,14 @@ info:
   - label: Gratuit
     value: 1 lectie
 
+  - label: Contact
+    value: <a href="https://fastrackids.ro" target="_blank">Website</a>
+
+
+  - label: Contact
+    value: <a href="https://fastrackids.ro/" target="_blank">Website</a>
+
+
 description1:
   title: "Reduceri: 
         <br> 1 lecție gratuită 

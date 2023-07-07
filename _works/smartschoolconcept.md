@@ -17,6 +17,10 @@ info:
   - label: Gratuit
     value: 1 lectie
 
+  - label: Contact
+    value: <a href="https://www.smartschoolconcept.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: 10% taxă lunară pentru programele educaționale

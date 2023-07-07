@@ -15,6 +15,10 @@ info:
   - label: Reducere
     value: 15% reducere
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/MieredelaTase" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 15% reducere pentru achizițiile de miere polifloră și de salcâm

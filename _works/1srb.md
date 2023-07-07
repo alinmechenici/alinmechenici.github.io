@@ -16,6 +16,14 @@ info:
   - label: Gratuit
     value: Acces gratuit pentru Scoala Parintilor
 
+  - label: Contact
+    value: <a href="https://scoalabritanica.ro" target="_blank">Website</a>
+
+
+  - label: Contact
+    value: <a href="https://scoalabritanica.ro" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: Acces gratuit la cursurile pentru parintii "Scoala Parintilor"

@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% reducere
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/ClimbingAkademos/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "25% la acces si inchiriere echipamente"

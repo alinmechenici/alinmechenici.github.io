@@ -16,6 +16,10 @@ info:
   - label: Reducere
     value: 5% proceduri
 
+  - label: Contact
+    value: <a href="https://cardiom.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 10% ecografii <br> - 5% proceduri de recuperare medicala/fizioterapie"

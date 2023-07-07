@@ -17,6 +17,10 @@ info:
   - label: Gratuit
     value: evaluare
 
+  - label: Contact
+    value: <a href="https://sardogs.net" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- Gratuit - evaluare

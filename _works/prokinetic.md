@@ -17,6 +17,10 @@ info:
   - label: Gratuit
     value: evaluare posturala
 
+  - label: Contact
+    value: <a href="https://www.prokinetic.ro" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- Gratuit - evaluare posturala

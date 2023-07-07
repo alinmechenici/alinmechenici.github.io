@@ -14,6 +14,10 @@ info:
     value: 10%
 
 
+  - label: Contact
+    value: <a href="https://www.logiscool.ro" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: 10% taxă lunară pentru programele educaționale

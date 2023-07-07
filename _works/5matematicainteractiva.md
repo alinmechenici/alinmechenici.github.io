@@ -12,6 +12,12 @@ live_preview: https://matematica-interactiva.ro/
 info:
   - label: Reducere
     value: 10%
+  - label: Reducere
+    value: 10%
+
+
+  - label: Contact
+    value: <a href="https://matematica-interactiva.ro/" target="_blank">Website</a>
 
 
 description1:

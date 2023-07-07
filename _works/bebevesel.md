@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% acces
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/bebevesel.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: 10% taxă lunară pentru programele educaționale

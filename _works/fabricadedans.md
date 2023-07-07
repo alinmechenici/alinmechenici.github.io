@@ -18,6 +18,10 @@ info:
   - label: Gratuit
     value: 1 lectie dans
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/FabricaDeDans/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- Gratuit - prima sedinta de curs

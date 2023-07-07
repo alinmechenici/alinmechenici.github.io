@@ -14,6 +14,10 @@ info:
   - label: Reducere
     value: 10% 
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/psihologandreeaiovita/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 50% evaluarea personalității

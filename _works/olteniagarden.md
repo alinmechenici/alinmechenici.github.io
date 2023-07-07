@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% reducere
 
+  - label: Contact
+    value: <a href="https://olteniagarden.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% plante si servicii de peisagistica"

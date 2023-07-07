@@ -53,9 +53,10 @@ layout: default
 					<!--<a target="_blank" href="{{ page.preview_url }}" class="btn scrolla-element-anim-1 scroll-animate" data-animate="active">
 						<span>{{ ui_text.live_preview }}</span>
 					</a>-->
-					<!--<a target="_blank" href="{{ page.preview_url }}" class="btn scrolla-element-anim-1 scroll-animate" data-animate="active">
+					<a target="_blank" href="{{ page.preview_url }}" class="btn scrolla-element-anim-1 scroll-animate" data-animate="active">
 						<span>{{ ui_text.live_preview }}</span>
-					</a>-->
+				2<h2></h2>
+					</a>
 
 					<!--<a target="_blank" href="{{ page.preview_url }}">
 					  <span>{{ ui_text.live_preview }}</span>

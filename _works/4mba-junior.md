@@ -12,6 +12,13 @@ live_preview: https://www.mbajunior.ro/
 info:
   - label: Reducere
     value: 10% programe educationale
+  - label: Contact
+    value: <a href="https://www.mbajunior.ro" target="_blank">Website</a>
+
+
+  - label: Contact
+    value: <a href="https://www.mbajunior.ro/" target="_blank">Website</a>
+
 
 description1:
   show: yes

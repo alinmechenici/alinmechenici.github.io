@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% reducere
 
+  - label: Contact
+    value: <a href="https://www.ardsecurity.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% pentru toate serviciile"

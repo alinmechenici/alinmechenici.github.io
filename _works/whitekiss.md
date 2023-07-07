@@ -17,6 +17,10 @@ info:
 
   - label: Gratuit
     value: consultatie, igienizare
+  - label: Contact
+    value: <a href="https://www.whitekiss.ro" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 1 consultație stomatologică gratuită/an

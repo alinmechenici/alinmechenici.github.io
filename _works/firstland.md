@@ -14,6 +14,10 @@ info:
     value: 20% reducere
 
 
+  - label: Contact
+    value: <a href="https://firstland.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "20% servicii cazare caini"

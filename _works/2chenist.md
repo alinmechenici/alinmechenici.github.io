@@ -13,12 +13,13 @@ full_image: assets/img/works/single1.jpg
 info:
   - label: Reducere
     value: 10%
+  - label: Contact
+    value: <a href="https://chenist.academy" target="_blank">Website</a>
 
 description1:
   show: yes
-  title: Servicii
-  text: "<p>.</p>
-  <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
+  title: " <p>Oferim discount de 10 % pentru serviciile de consultanta, cyber hygiene si control parental, pentru membrii EduBenefits.</p>"
+  text: 
 
 gallery:
   - assets/img/works/work5.jpeg
@@ -26,7 +27,7 @@ gallery:
   - assets/img/blog/blog6.jpg
 
 description2:
-  title: Video
+  title: "<p>Profita acum de oferta pentru familii cu copii. Te ajutam sa protejezi caminul si copii de pericolele digitale. Contacteaza-ne pentru detalii.</p>"
   text: "<p>
   </p>"
 

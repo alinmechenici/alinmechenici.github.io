@@ -12,6 +12,10 @@ live_preview: https://cazare-bliss.ro/
 info:
   - label: Reducere
     value: 10% 
+  - label: Contact
+    value: <a href="https://cazare-bliss.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% reducere la pachetelor de cazare și masă"

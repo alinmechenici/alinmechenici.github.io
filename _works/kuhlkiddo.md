@@ -13,6 +13,10 @@ info:
   - label: Gratuit
     value: 2 intrari / luna
 
+  - label: Contact
+    value: <a href="https://kuhlkiddo.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 2 intrări gratuite pe luna la locul de joacă

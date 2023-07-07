@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 30% reducere
 
+  - label: Contact
+    value: <a href="https://www.indiscret.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "30% reducere pt anunturi mass media"

@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% 
     
+  - label: Contact
+    value: <a href="https://www.ramadaplazacraiova.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% discount la toate serviciile (SPA, evenimente și cazare)"

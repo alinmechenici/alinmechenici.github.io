@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% reducere
 
+  - label: Contact
+    value: <a href="https://www.renamedlaborator.ro/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- 10% discount"

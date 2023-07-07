@@ -17,6 +17,10 @@ info:
   - label: Gratuit
     value: consultatie
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/p/Home-Med-Care-100063066167152/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "- Gratuit: planul de nursing și modul de aplicare a conduitei terapeutice

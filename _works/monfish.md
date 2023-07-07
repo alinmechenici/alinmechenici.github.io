@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 10% reducere
 
+  - label: Contact
+    value: <a href="https://www.facebook.com/people/Mon-Fish/100091323525666/" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "10% reducere pentru un interval de 12 ore de pescuit"

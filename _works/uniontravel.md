@@ -13,6 +13,10 @@ info:
   - label: Reducere
     value: 25%
 
+  - label: Contact
+    value: <a href="https://drive.google.com/file/d/14pVXnwFpQhf9SJQsEMLDxUBN2CKgmlIz/view?usp=drive_link" target="_blank">Website</a>
+
+
 description1:
   show: yes
   title: "25% discount pentru cursele rezervate"
