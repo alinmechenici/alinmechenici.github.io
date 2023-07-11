@@ -15,7 +15,7 @@ info:
     value: 10% reducere
 
   - label: Telefon
-    value: 0770774020
+    value: 0770 774 020
 
 description1:
   show: yes

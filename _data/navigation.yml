@@ -75,7 +75,7 @@ main:
 
      # Aboneaza-te!
   - title: "Aboneaza-te!"
-    url: "https://british-school.profixcard.ro/inregistrare/"
+    url: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
     parent: 0
 
   # Valabilitate
@@ -84,7 +84,7 @@ main:
   #  parent: 0
 
   - title: "Verifica valabilitate"
-    url: "https://british-school.profixcard.ro/subscription-check/"
+    url: "https://british-school.profixcard.ro/card-check/"
     parent: 0
 
   # Contact
