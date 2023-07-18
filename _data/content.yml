@@ -15,7 +15,7 @@ hero:
   "
   button1:
     label: "Aboneaza-te!"
-    link: "#"
+    link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
   button2:
     label: "Solicita oferta"
     link: "#contact-section"
