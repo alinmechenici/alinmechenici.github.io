@@ -19,12 +19,8 @@ info:
 
 description1:
   show: yes
-  title: "30% reducere la abonamentul cu 4 intrari lunare
-  <br> sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. 
-prima sedinta gratuit.
-  <br>Educatie nutritionala personalizata gratuit."
+  title: "4 intrări pe lună la sală incluse in abonamentul edubenefits" 
   text: "<p>.</p>
   "
 
 ---
-

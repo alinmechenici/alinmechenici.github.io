@@ -8,7 +8,7 @@ image: assets/img/logos/wine.png
 short_description: "10% reducere pentru orice achizitie din magazin"
 
 # full details
-live_preview: https://www.almpower.ro/
+live_preview: 
 info:
   - label: Reducere
     value: 10% reducere
