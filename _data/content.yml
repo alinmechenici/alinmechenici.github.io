@@ -73,6 +73,45 @@ services:
       button_label: "Vezi filmulet"
       button_link: "https://youtu.be/1nRR_hq_qeo"
 
+
+### Testimonials [ testimonials ]
+testimonials:
+  title: "Beneficii incluse"
+  subtitle: "in toate <b>abonamentele </b> Edubenefits"
+  bg_title: "Inclus"
+
+  items:
+#    - image: "assets/img/testimonials/testi4-2.jpg"
+#      name: "TRIOS"
+#      role: "CEO SRB"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      text: "Sustin Edubenefits, oferind gratuitati tuturor posesorilor de abonament."
+
+    - image: "assets/img/logos/moving.png"
+      name: "4 Moving"
+      role: "4moving.ro"
+      text: "Oferim 4 intrari/luna la sala, tuturor posesorilor de abonamente edubenefits."
+
+    - image: "assets/img/logos/chenist.png"
+      name: "CHENIST Cybersecurity"
+      role: "resources.chenist.academy"
+      text: "Oferim acces VIP in platforma de continut Cyber Hygiene, tuturor posesorilor de abonamente edubenefits."
+
+#    - image: "assets/img/testimonials/testi4-4.jpg"
+#      name: "Stefan Cherciu "
+#      role: "Owner QFort"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#    - image: "assets/img/testimonials/testi4-3.jpg"
+#      name: "Andreea Iovita"
+#      role: "Psiholog"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#    - image: "assets/img/testimonials/testi4-5.jpg"
+#      name: "Florin Sanda"
+#      role: "Serial Antreprenor"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
 ### Skills [ skills ]
 #skills:
 #  title: "Domenii inscrise"
@@ -151,38 +190,6 @@ services:
 #        period: "2016 - 2018"
 #        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-
-### Testimonials [ testimonials ]
-#testimonials:
-#  title: "Ofera beneficii"
-#  subtitle: "Esti <b>Companie</b>?"
-#  bg_title: "Reviews"
-
-#  items:
-#    - image: "assets/img/testimonials/testi4-2.jpg"
-#      name: "Cristina Catana"
-#      role: "CEO SRB"
-#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-#    - image: "assets/img/testimonials/testi4-1.jpg"
-#      name: "Alin Mechenici"
-#      role: "CEO Chenist"
-#      text: "Sustin educatia din Romania si contribui cu servicii de securitate informatica, deoarece viitorul trebuie protejat."
-
-#    - image: "assets/img/testimonials/testi4-4.jpg"
-#      name: "Stefan Cherciu "
-#      role: "Owner QFort"
-#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-#    - image: "assets/img/testimonials/testi4-3.jpg"
-#      name: "Andreea Iovita"
-#      role: "Psiholog"
-#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-#    - image: "assets/img/testimonials/testi4-5.jpg"
-#      name: "Florin Sanda"
-#      role: "Serial Antreprenor"
-#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ### Pricing [ pricing ]

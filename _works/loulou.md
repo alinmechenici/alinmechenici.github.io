@@ -4,7 +4,7 @@ layout: works-single
 title: LOU LOU MACARONS
 category: Ospitalitate
 category_slug: ospitalitate
-image: assets/img/logos/loulou.png
+image: assets/img/logos/liliuntila.png
 short_description: "10% candy bar si torturi"
 
 # full details

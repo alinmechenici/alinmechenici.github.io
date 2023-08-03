@@ -21,7 +21,7 @@ description1:
   show: yes
   title: "sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. 
 prima sedinta gratuit.
-  <br>Educatie nutritionala personalizata gratuit."" 
+  <br>Educatie nutritionala personalizata gratuit." 
   text: "<p>.</p>
   "
 
