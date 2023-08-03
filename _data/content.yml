@@ -21,7 +21,7 @@ hero:
     link: "#contact-section"
   bg_title: "Despre"
   info:
-    - num: "130 <strong>+</strong>"
+    - num: "130 <strong>+</strong>"w
       value: "Beneficii <strong>pentru angajati</strong>"
 
     - num: "80+"
@@ -215,7 +215,7 @@ pricing:
   #        included: false
       button:
         label: "Alege"
-        link: "#contact-section"
+        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
 
     - name: "Trimestrial "
       center: true
@@ -234,7 +234,7 @@ pricing:
   #        included: false
       button:
         label: "Alege"
-        link: "#contact-section"
+        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
 
     - name: "Anual "
       center: true
@@ -244,7 +244,7 @@ pricing:
       text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
       button:
         label: "Alege"
-        link: "#contact-section"
+        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
 
     #- name: "Anual"
     #  center: false
