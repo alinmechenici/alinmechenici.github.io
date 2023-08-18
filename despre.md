@@ -8,7 +8,6 @@ author: Cristina
 tags: despre
 ---
 
-
 <br>
 <h2>Cine suntem</h2>
 <h3>Solutia potrivita</h3>
@@ -33,7 +32,7 @@ Dacă vrei să susții proiecte educaționale unice și crezi să educația treb
 
 Mai mult, ai posibilitatea să descoperi companiile cele mai implicate social, așa că înveți să consumi produse și servicii de la cei care merită să te aibă drept client!
 
-<br> <br> 
+<br> <br>
 <h2>Companii abonate</h2>
 <h3>Ce primesc companiile?</h3>
 <br> 

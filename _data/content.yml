@@ -21,7 +21,7 @@ hero:
     link: "#contact-section"
   bg_title: "Despre"
   info:
-    - num: "130 <strong>+</strong>"w
+    - num: "130 <strong>+</strong>"
       value: "Beneficii <strong>pentru angajati</strong>"
 
     - num: "80+"
@@ -89,18 +89,18 @@ testimonials:
 
     - image: "assets/img/logos/moving.png"
       name: "4 Moving"
-      role: "4moving.ro"
-      text: "Oferim 4 intrari/luna la sala, tuturor posesorilor de abonamente edubenefits."
+#      role: "4moving.ro"
+      text: "4 intrări pe lună la sală incluse in abonamentul edubenefits"
 
     - image: "assets/img/logos/chenist.png"
       name: "CHENIST Cybersecurity"
-      role: "resources.chenist.academy"
+#      role: "resources.chenist.academy"
       text: "Oferim acces VIP in platforma de continut Cyber Hygiene, tuturor posesorilor de abonamente edubenefits."
 
-#    - image: "assets/img/testimonials/testi4-4.jpg"
-#      name: "Stefan Cherciu "
+    - image: "assets/img/logos/telios.png"
+      name: "Telios Care "
 #      role: "Owner QFort"
-#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      text: "Telemedicina este cea mai recenta si revolutionara abordare in lumea serviciilor medicale, care ofera acces nelimitat, 24/7 la asistenta medicala certificata, indiferent de zi sau ora."
 
 #    - image: "assets/img/testimonials/testi4-3.jpg"
 #      name: "Andreea Iovita"

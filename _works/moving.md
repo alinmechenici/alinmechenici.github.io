@@ -10,9 +10,6 @@ short_description: "30% reducere la abonamentul cu 4 intrari lunare"
 # full details
 live_preview: https://www.4moving.ro
 info:
-  - label: Reducere
-    value: 10% reducere
-
   - label: Contact
     value: <a href="https://www.4moving.ro/" target="_blank">Website</a>
 

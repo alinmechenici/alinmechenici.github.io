@@ -1,6 +1,6 @@
 #! /nix/store/7q1b1bsmxi91zci6g8714rcljl620y7f-bash-5.2-p15/bin/bash
 # Generated automatically by config.status (libffi) 3.3
-# Libtool was configured on host zeuschn:
+# Libtool was configured on host nixos:
 # NOTE: Changes made to this file will be lost: look at ltmain.sh.
 
 # Provide generalized library-building support services.
