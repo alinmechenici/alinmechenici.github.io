@@ -87,6 +87,11 @@ testimonials:
 #      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 #      text: "Sustin Edubenefits, oferind gratuitati tuturor posesorilor de abonament."
 
+    - image: "assets/img/logos/telios.png"
+      name: "Telios Care "
+#      role: "Owner QFort"
+      text: "Telemedicina este cea mai recenta si revolutionara abordare in lumea serviciilor medicale, care ofera acces nelimitat, 24/7 la asistenta medicala certificata, indiferent de zi sau ora."
+
     - image: "assets/img/logos/moving.png"
       name: "4 Moving"
 #      role: "4moving.ro"
@@ -97,10 +102,6 @@ testimonials:
 #      role: "resources.chenist.academy"
       text: "Oferim acces VIP in platforma de continut Cyber Hygiene, tuturor posesorilor de abonamente edubenefits."
 
-    - image: "assets/img/logos/telios.png"
-      name: "Telios Care "
-#      role: "Owner QFort"
-      text: "Telemedicina este cea mai recenta si revolutionara abordare in lumea serviciilor medicale, care ofera acces nelimitat, 24/7 la asistenta medicala certificata, indiferent de zi sau ora."
 
 #    - image: "assets/img/testimonials/testi4-3.jpg"
 #      name: "Andreea Iovita"
