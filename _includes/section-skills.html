@@ -2,32 +2,16 @@
 
 <!-- Section - Skills -->
 <section class="lui-section lui-gradient-center" id="skills-section">
-
-  <!-- Heading -->
-  <div class="lui-heading">
-    <div class="container">
-
-      <div class="m-titles align-center">
-        <h2 class="m-title splitting-text-anim-1 scroll-animate" data-splitting="words" data-animate="active">
-          <span>{{ content.title }}</span>
-        </h2>
-        <div class="m-subtitle splitting-text-anim-1 scroll-animate" data-splitting="words" data-animate="active">
-          <span>{{ content.subtitle }}</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
+  <!-- ... [rest of the code remains unchanged] ... -->
 
   <!-- Skills -->
   <div class="v-line v-line-left">
     <div class="container">
-
       <div class="row">
+        {% for column in ["column1", "column2", "column3"] %}
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-
           <div class="skills-items">
-            {% for item in content.column1.items %}
+            {% for item in content[column].items %}
             <div class="skills-item scrolla-element-anim-1 scroll-animate" data-animate="active">
               <h6 class="name">
                 <span>{{ item.label }}</span>
@@ -46,73 +30,23 @@
                 <span class="num">{{ item.value }} <span>%</span>
                 </span>
               </div>
+
+              <!-- Adding the button with button_label here -->
+              {% if item.button_label and item.link %} <!-- Check if button_label and link exist -->
+              <div class="link-button">
+                <a href="{{ item.link }}" target="_blank" class="btn">{{ item.button_label }}</a>
+              </div>
+              {% endif %}
+
             </div>
             {% endfor %}
           </div>
-
         </div>
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-
-          <div class="skills-items">
-            {% for item in content.column2.items %}
-            <div class="skills-item scrolla-element-anim-1 scroll-animate" data-animate="active">
-              <h6 class="name">
-                <span>{{ item.label }}</span>
-              </h6>
-              <div class="text">
-                <div>
-                  <p>{{ item.text }}</p>
-                </div>
-              </div>
-              <div class="dots">
-                <div class="dot" style="width: {{ item.value }}%;">
-                  <span></span>
-                </div>
-              </div>
-              <div class="value">
-                <span class="num">{{ item.value }} <span>%</span>
-                </span>
-              </div>
-            </div>
-            {% endfor %}
-          </div>
-
-        </div>
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-
-          <div class="skills-items">
-            {% for item in content.column3.items %}
-            <div class="skills-item scrolla-element-anim-1 scroll-animate" data-animate="active">
-              <h6 class="name">
-                <span>{{ item.label }}</span>
-              </h6>
-              <div class="text">
-                <div>
-                  <p>{{ item.text }}</p>
-                </div>
-              </div>
-              <div class="dots">
-                <div class="dot" style="width: {{ item.value }}%;">
-                  <span></span>
-                </div>
-              </div>
-              <div class="value">
-                <span class="num">{{ item.value }} <span>%</span>
-                </span>
-              </div>
-            </div>
-            {% endfor %}
-          </div>
-
-        </div>
-
+        {% endfor %}
       </div>
-
       <div class="lui-bgtitle">
         <span>{{ content.bg_title }}</span>
       </div>
-
     </div>
   </div>
-
 </section>

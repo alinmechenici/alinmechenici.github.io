@@ -1,4 +1,0 @@
----
-layout: craiova
-title: Craiova
----
