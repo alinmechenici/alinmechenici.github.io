@@ -4,6 +4,8 @@ layout: works-single
 title: Renamed
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/renamed.png
 short_description: "- 10% reducere analize laborator"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: Union Business Travel
 category: Transport
 category_slug: transport
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/ubt.png
 short_description: "25% discount pentru cursele rezervate"
 

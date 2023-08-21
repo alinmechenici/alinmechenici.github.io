@@ -4,6 +4,8 @@ layout: works-single
 title: Cazare Bliss
 category: Ospitalitate
 category_slug: ospitalitate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/dubova.jpeg
 short_description: "10% reducere la pachetelor de cazare și masă"
 

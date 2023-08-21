@@ -4,6 +4,8 @@ layout: works-single
 title: Librariile Cornul Abundentei
 category: Produse
 category_slug: produse
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/cornulabundentei.png
 short_description: "10% reducere la toate achizitiile"
 

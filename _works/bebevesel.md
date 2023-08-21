@@ -4,6 +4,8 @@ layout: works-single
 title: BebeVesel.ro
 category: Educatie
 category_slug: educatie
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/bebevesel.png
 short_description: "10% acces la conferintele de parenting"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: Happy Cars
 category: Alte servicii
 category_slug: alte-servicii
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/happycars.png
 short_description: "10% reducere"
 

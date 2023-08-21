@@ -4,6 +4,8 @@ layout: works-single
 title: Fabrica de dans
 category: Educatie
 category_slug: educatie
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/fabricadedans.png
 short_description: "- Gratuit - prima sedinta de curs
 <br> - 10% discount cursant

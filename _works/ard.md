@@ -4,6 +4,8 @@ layout: works-single
 title: ARD Security
 category: servicii
 category_slug: servicii
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/ard.png
 short_description: "10% pentru toate serviciile"
 

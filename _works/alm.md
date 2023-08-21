@@ -4,6 +4,8 @@ layout: works-single
 title: ALM Power Group
 category: Servicii
 category_slug: servicii
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/alm.png
 short_description: "1.000 RON reducere la executia unui sistem fotovoltaic mono/trifazic de maxim 8kw, montat oriunde in Oltenia."
 

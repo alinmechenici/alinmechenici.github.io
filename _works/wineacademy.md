@@ -4,6 +4,8 @@ layout: works-single
 title: Wine Academy
 category: Produse
 category_slug: produse
+location: Suceava
+location_slug: suceava
 image: assets/img/logos/wine.png
 short_description: "10% reducere pentru orice achizitie din magazin"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: White Kiss
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/white.png
 short_description:  "- 1 consultație stomatologică gratuită/an
 <br> - 1 igienizare gratuită (detartraj+periaj)/ an

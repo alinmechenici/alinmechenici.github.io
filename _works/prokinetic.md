@@ -4,6 +4,8 @@ layout: works-single
 title: Prokinetic
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/prokinetic.png
 short_description:  "- Gratuit - evaluare posturala
 <br> - 10% reducere la abonamente"

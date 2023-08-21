@@ -4,6 +4,8 @@ layout: works-single
 title: CLUBUL SPORTIV MEIYO
 category: Timp liber
 category_slug: timp-liber
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/meyo.png
 short_description: "- 5 lectii gratuite de auto-aparare
 <br> - 10% discount la abonament lunar"

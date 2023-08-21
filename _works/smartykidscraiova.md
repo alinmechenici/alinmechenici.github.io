@@ -4,6 +4,8 @@ layout: works-single
 title: SMARTY Kids - Craiova Centru
 category: Educatie
 category_slug: educatie
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/smarty.png
 short_description: "- 10% taxă lunară pentru programele educaționale"
 

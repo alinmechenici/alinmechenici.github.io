@@ -4,6 +4,8 @@ layout: works-single
 title: Andreea Iovita - CABINET INDIVIDUAL DE PSIHOLOGIE
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/iovita.png
 short_description: "- 50% evaluarea personalității
 <br> - 10% Evaluarea si consilierea psihologica a copilului/ adultului/cuplului si familiei"

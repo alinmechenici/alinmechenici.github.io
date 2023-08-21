@@ -4,6 +4,8 @@ layout: works-single
 title: FIRST LAND - pensiune canina
 category: Animale
 category_slug: animale
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/centruldeeducarecanina.png
 short_description: "20% servicii cazare caini"
 

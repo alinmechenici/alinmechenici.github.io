@@ -4,6 +4,8 @@ layout: works-single
 title: Logiscool
 category: Educatie
 category_slug: educatie
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/logiscool.png
 short_description: "10% taxă lunară pentru programele educaționale"
 

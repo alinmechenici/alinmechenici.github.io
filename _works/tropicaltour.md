@@ -4,6 +4,8 @@ layout: works-single
 title: Tropical Tour
 category: Turism
 category_slug: ospitalitate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/tropical.png
 short_description: "2% discount la pachetele charter avion cu plecare din Romania
     <br>2% discount la cazare (minim 5 nopti)

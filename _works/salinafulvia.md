@@ -4,6 +4,8 @@ layout: works-single
 title: Salina Fulvia
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/salinafulvia.png
 short_description:  "- prima sedinta gratuita copil+insotitor
 <br> - 10% din costul unui abonament"

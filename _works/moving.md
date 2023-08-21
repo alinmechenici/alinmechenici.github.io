@@ -4,6 +4,8 @@ layout: works-single
 title: 4 Moving
 category: Timp liber
 category_slug: timp-liber
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/moving.png
 short_description: "30% reducere la abonamentul cu 4 intrari lunare"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: Smart School Concept
 category: Educatie
 category_slug: educatie
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/smart.png
 short_description: "- 10% taxă lunară pentru programele educaționale
 <br> - 1 lectie gratuita"

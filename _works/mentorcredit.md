@@ -4,6 +4,8 @@ layout: works-single
 title: Mentor Credit Group
 category: Servicii
 category_slug: servicii
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/mentor.png
 short_description: "Costuri zero si prioritate in programarea pentru analiza
 0,2 cashback din valoarea creditului pentru credite imobiliare"

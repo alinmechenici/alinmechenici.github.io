@@ -4,6 +4,8 @@ layout: works-single
 title: D&D Biliard
 category: Timp liber
 category_slug: timp-liber
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/dd.png
 short_description: "10% reducere"
 

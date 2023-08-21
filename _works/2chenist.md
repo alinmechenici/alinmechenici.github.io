@@ -4,6 +4,8 @@ layout: works-single
 title: CHENIST.Academy 
 category: Cybersecurity
 category_slug: servicii
+location: National
+location_slug: national
 image: assets/img/logos/chenist.png
 short_description: Oferim reducere 10% la serviciile CHENIST si CHENIST Academy.
 

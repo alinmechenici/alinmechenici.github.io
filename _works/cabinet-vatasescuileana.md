@@ -4,6 +4,8 @@ layout: works-single
 title: VĂTĂȘESCU ILEANA - CABINET INDIVIDUAL DE PSIHOLOGIE
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/ileanavatasescu.png
 short_description:  "10% psihoterapie individuala"
 

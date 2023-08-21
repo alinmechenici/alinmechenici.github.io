@@ -4,6 +4,8 @@ layout: works-single
 title: FasTracKids România (19 academii)
 category: Educatie
 category_slug: educatie
+location: National
+location_slug: national
 image: assets/img/logos/ftk.png
 short_description: "
 - 10% taxă lunară pentru toate modulele FTK

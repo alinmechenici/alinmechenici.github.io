@@ -4,6 +4,8 @@ layout: works-single
 title: I LOVE CAKES – Brioșerie
 category: Ospitalitate
 category_slug: ospitalitate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/ilovecakes.png
 short_description:  "10% la deserturile din brioșerie, la candy bar-uri și la torturi"
 

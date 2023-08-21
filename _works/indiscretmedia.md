@@ -4,6 +4,8 @@ layout: works-single
 title: Indiscret Media
 category: Servicii
 category_slug: servicii
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/indiscret.png
 short_description: "30% reducere pt anunturi mass media"
 

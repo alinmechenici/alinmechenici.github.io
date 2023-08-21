@@ -4,6 +4,8 @@ layout: works-single
 title: LOU LOU MACARONS
 category: Ospitalitate
 category_slug: ospitalitate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/liliuntila.png
 short_description: "10% candy bar si torturi"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: VĂTĂȘESCU BIANCA NICOLETA - CABINET INDIVIDUAL DE PSIHOLOGIE
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/biancavatasescu.png
 short_description: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"
 

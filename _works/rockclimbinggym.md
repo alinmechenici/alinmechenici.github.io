@@ -4,6 +4,8 @@ layout: works-single
 title: Rock Climbing Gym
 category: Timp liber
 category_slug: timp-liber
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/rockclimb.png
 short_description: "25% la acces si inchiriere echipamente"
 

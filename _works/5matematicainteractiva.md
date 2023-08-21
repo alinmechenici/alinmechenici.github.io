@@ -4,6 +4,8 @@ layout: works-single
 title: Matematica Interactiva
 category: Educatie
 category_slug: educatie
+location: National
+location_slug: national
 image: assets/img/logos/mateinteractiva.png
 short_description: "10% taxă lunară pentru programele educaționale"
 

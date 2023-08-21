@@ -3,7 +3,9 @@
 layout: works-single
 title: Cardiomed
 category: Sanatate
-category_slug: sahatate
+category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/cardiomed.png
 short_description:  "- 10% ecografii <br> - 5% proceduri de recuperare medicala/fizioterapie"
 

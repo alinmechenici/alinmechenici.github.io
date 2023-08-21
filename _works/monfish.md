@@ -4,6 +4,8 @@ layout: works-single
 title: Mon FISH - Balta de pescuit
 category: Timp liber
 category_slug: timp-liber
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/monfish.png
 short_description: "10% reducere pentru un interval de 12 ore de pescuit"
 

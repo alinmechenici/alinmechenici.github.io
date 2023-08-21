@@ -4,6 +4,8 @@ layout: works-single
 title: ZANZIBAR
 category: Ospitalitate
 category_slug: ospitalitate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/zanzibar.png
 short_description: "10% pentru următoarele servicii:
 <br> - Organizare de evenimente

@@ -4,6 +4,8 @@ layout: works-single
 title: Oltenia Garden
 category: Constructii / amenajari
 category_slug: constructii-amenajari
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/olteniagarden.png
 short_description: "10% plante si servicii de peisagistica"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: Crucea Rosie - Filiala Craiova
 category: Educatie
 category_slug: photography
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/crucearosie.png
 short_description: "10% la cursurile de prim ajutor"
 

@@ -4,6 +4,8 @@ layout: works-single
 title: Kuhl Kiddo
 category: Timp liber
 category_slug: timp-liber
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/kuhl.png
 short_description:  "10% reducere pentru un interval de 12 ore de pescuit"
 

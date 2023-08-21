@@ -4,6 +4,8 @@ layout: works-single
 title: Home Med Care
 category: Sanatate
 category_slug: sanatate
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/homemedcare.png
 short_description: "- Gratuit: planul de nursing și modul de aplicare a conduitei terapeutice
 <br> - 10% reducere pentru: administrarea medicamentelor; tratamentul și pansamentul plăgilor;  tratamentul escarelor, ulcerațiilor și plăgilor cornice; recoltarea analizelor la domiciliu; manevre terapeutice și exploratorii; servicii medicale conexe"
