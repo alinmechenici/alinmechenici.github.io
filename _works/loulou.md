@@ -6,7 +6,7 @@ category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova
 location_slug: craiova
-image: assets/img/logos/liliuntila.png
+image: assets/img/logos/loulou.png
 short_description: "10% candy bar si torturi"
 
 # full details
