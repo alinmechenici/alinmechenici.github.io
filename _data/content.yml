@@ -121,6 +121,13 @@ services:
   bg_title: "locatii"
 
   items:
+
+    - title: "Romania"
+      subtitle: "Beneficii la nivel national"
+      text: " "
+      button_label: "National"
+      button_link: "/national"
+      
     - title: "Oltenia"
       subtitle: "Beneficii in Craiova"
       text: " "
@@ -133,11 +140,6 @@ services:
       button_label: "Suceava"
       button_link: "/suceava"
 
-    - title: "Romania"
-      subtitle: "Beneficii la nivel national"
-      text: " "
-      button_label: "National"
-      button_link: "/national"
 
 ### Skills [ skills ]
 #skills:
