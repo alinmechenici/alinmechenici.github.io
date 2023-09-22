@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Logiscool
+title: Logiscool Craiova
 category: Educatie
 category_slug: educatie
 location: Craiova

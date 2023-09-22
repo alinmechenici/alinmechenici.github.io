@@ -121,13 +121,12 @@ services:
   bg_title: "locatii"
 
   items:
-
     - title: "Romania"
       subtitle: "Beneficii la nivel national"
       text: " "
       button_label: "National"
       button_link: "/national"
-      
+
     - title: "Oltenia"
       subtitle: "Beneficii in Craiova"
       text: " "
