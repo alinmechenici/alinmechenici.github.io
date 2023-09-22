@@ -4,8 +4,8 @@ layout: works-single
 title: MBA Junior
 category: Educatie
 category_slug: educatie
-location: National
-location_slug: national
+location: Craiova
+location_slug: craiova
 image: assets/img/logos/mba.png
 short_description: "10% taxă lunară pentru programele educaționale"
 

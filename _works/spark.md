@@ -4,8 +4,8 @@ layout: works-single
 title: Spark School
 category: Educatie
 category_slug: educatie
-location: Craiova
-location_slug: craiova
+location: National
+location_slug: national
 image: assets/img/logos/spark.png
 short_description: "10% reducere la programele de studiu bazate pe Curriculumul International Cambridge, un curs de wellbeing sau leadership la alegere si o testare vocationala."
 
