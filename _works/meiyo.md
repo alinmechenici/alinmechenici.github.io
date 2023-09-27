@@ -21,7 +21,8 @@ info:
 
 description1:
   show: yes
-  title: 10% taxă lunară pentru programele educaționale
+  title: "- 5 lectii gratuite de auto-aparare
+<br> - 10% discount la abonament lunar"
   text: "<p>.</p>
   "
 

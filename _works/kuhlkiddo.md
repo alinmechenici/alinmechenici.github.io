@@ -7,7 +7,7 @@ category_slug: timp-liber
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/kuhl.png
-short_description:  "10% reducere pentru un interval de 12 ore de pescuit"
+short_description: 10% discout la taxa lunară pentru programele educationale (se poate cumula cu alte discount-uri deja existente, in limita maxima de 15%
 
 # full details
 live_preview: https://kuhlkiddo.ro/
@@ -22,7 +22,7 @@ info:
 description1:
   show: yes
   title: "- 2 intrări gratuite pe luna la locul de joacă
-  <br> - 2 accese gratuite la locul de joacă pentru petrecerile organizate în cadrul Kuhl Kiddo
+  <br> - 2 accese gratuite la locul de joacă pentru petrecerile organizate în cadrul Kuhl Kiddo"
 
 "
   text: "<p>.</p>

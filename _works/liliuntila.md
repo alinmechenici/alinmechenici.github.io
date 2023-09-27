@@ -7,7 +7,8 @@ category_slug: timp-liber
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/liliuntila.png
-short_description: "30% reducere la abonamentul cu 4 intrari lunare"
+short_description: "sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. Prima sedinta gratuit.
+  <br> Educatie nutritionala personalizata gratuit." 
 
 # full details
 live_preview: 
