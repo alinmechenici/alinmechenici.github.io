@@ -25,7 +25,8 @@ info:
 
 description1:
   show: yes
-  title: 10% taxă lunară pentru programele educaționale
+  title: "- 10% taxă lunară pentru programele educaționale
+<br> - 1 lectie gratuita"
   text: "<p>.</p>
   "
 
