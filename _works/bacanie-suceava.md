@@ -12,7 +12,7 @@ short_description: "20% discount la toate produsele vândute în mezinul din Pia
 # full details
 info:
   - label: Reducere
-    value: 15% 
+    value: 20% 
   - label: Contact
     value: <a href="https://specialitatisibiene.com" target="_blank">Website</a>
 

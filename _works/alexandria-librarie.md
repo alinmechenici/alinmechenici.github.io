@@ -13,7 +13,7 @@ short_description: "10% discount pentru toate produsele vândute în librarii"
 live_preview: https://www.facebook.com/alexandrialibrarii
 info:
   - label: Reducere
-    value: 15% 
+    value: 10% 
   - label: Contact
     value: <a href="https://www.facebook.com/alexandrialibrarii" target="_blank">Website</a>
 
