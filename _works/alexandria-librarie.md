@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Alexandria Librarii, Radauti
-category: Ospitalitate
-category_slug: ospitalitate
+category: Educatie
+category_slug: educatie
 location: Radauti
 location_slug: suceava
 image: assets/img/logos/alexandrialibrarii.png
