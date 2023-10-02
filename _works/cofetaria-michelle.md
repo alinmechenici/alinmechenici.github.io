@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Cofetaria Michelle, Radauti
-category: Servicii
-category_slug: servicii
+category: Produse
+category_slug: produse
 location: Radauti
 location_slug: suceava
 image: assets/img/logos/michelle.png
