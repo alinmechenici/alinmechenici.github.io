@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: National
 location_slug: national
-image: assets/img/logos/noel.png
+image: assets/img/logos/antonianoel.png
 short_description: "Reducere de 15% pentru cursurile online oferite părinților de către autoarea metodei de Comunicare Relatională."
 
 # full details

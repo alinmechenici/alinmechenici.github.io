@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/aldocaffe.png
+image: assets/img/logos/aldo.png
 short_description: "5% discount la toate produsele achiziționate din magazin"
 
 # full details

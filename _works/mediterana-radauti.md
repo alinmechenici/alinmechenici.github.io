@@ -6,7 +6,7 @@ category: Ospitalitate
 category_slug: ospitalitate
 location: Radauti
 location_slug: suceava
-image: assets/img/logos/mediterana.jpeg
+image: assets/img/logos/mediterana.png
 short_description: "Restaurant fast-food: 10% discount la toate produsele restaurantului"
 
 # full details

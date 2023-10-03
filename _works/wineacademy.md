@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/wine.png
+image: assets/img/logos/wineacademy.png
 short_description: "10% reducere pentru orice achizitie din magazin"
 
 # full details

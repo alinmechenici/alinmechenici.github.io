@@ -6,7 +6,7 @@ category: Ospitalitate
 category_slug: ospitalitate
 location: Radauti
 location_slug: suceava
-image: assets/img/logos/casavatra.jpeg
+image: assets/img/logos/casavatra.png
 short_description: "10% discount pentru toate serviciile oferite de restaurant si hotel"
 
 # full details

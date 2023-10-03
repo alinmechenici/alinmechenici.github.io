@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: Radauti
 location_slug: suceava
-image: assets/img/logos/alexandrialibrarii.png
+image: assets/img/logos/alexandria.png
 short_description: "10% discount pentru toate produsele vândute în librarii"
 
 # full details

@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/specialitatisibiene.jpeg
+image: assets/img/logos/specialitatisibiene.png
 short_description: "20% discount la toate produsele vândute în mezinul din Piața Centrală"
 
 # full details

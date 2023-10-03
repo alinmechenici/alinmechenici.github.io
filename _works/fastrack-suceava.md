@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/ftk.png
+image: assets/img/logos/fastrackids.png
 short_description: "
 - 10% taxă lunară pentru toate modulele FTK
 <br>- 1 lecție gratuită

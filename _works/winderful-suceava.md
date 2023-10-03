@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/winederful.jpeg
+image: assets/img/logos/winederful.png
 short_description: "Wine, bubbles and spirits shop - the perfect gift shop: 10% discount la toate produsele achiziționate din magazin"
 
 # full details

@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/edenplant.jpeg
+image: assets/img/logos/edenplant.png
 short_description: "10% discount la toate produsele vândute în magazine"
 
 # full details

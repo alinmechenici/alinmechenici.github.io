@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/whitesmoke.jpeg
+image: assets/img/logos/whitesmoke.png
 short_description: "Sare fum si timp. Produse din carne afumate pe loc: 5% discount la toate produsele achiziționate din magazin"
 
 # full details

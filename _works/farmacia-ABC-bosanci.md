@@ -6,7 +6,7 @@ category: Sanatate
 category_slug: sanatate
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/farmaciaabc.png
+image: assets/img/logos/abc.png
 short_description: "15% discount la suplimente alimentare si cosmetice"
 
 # full details

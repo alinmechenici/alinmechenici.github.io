@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Radauti
 location_slug: suceava
-image: assets/img/logos/michelle.png
+image: assets/img/logos/cofetariamichelle.png
 short_description: "10% discount pentru toate produsele oferite de cofetărie"
 
 # full details

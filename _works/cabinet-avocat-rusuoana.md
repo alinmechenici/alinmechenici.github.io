@@ -6,7 +6,7 @@ category: Servicii
 category_slug: servicii
 location: Radauti
 location_slug: suceava
-image: assets/img/logos/avocat-oanarusu.jpeg
+image: assets/img/logos/oanarusu.png
 short_description: "10% discount pentru toate serviciile oferite de cabinet:
                 <br> -drept civil
                 <br> -dreptul familiei

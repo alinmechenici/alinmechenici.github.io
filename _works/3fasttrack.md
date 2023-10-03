@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: National
 location_slug: national
-image: assets/img/logos/ftk.png
+image: assets/img/logos/fastrackids.png
 short_description: "
 - 10% taxă lunară pentru toate modulele FTK
 <br>- 1 lecție gratuită

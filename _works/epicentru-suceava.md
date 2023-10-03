@@ -6,7 +6,7 @@ category: Ospitalitate
 category_slug: ospitalitate
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/epicentru.jpeg
+image: assets/img/logos/epicentru.png
 short_description: "Restaurant,de la mâncare tradițională românească, la paste, steak-uri, sushi ori mâncare arăbească. 
 <br> 10% discount pentru consumația la restaurant, cu excepția meniului zilei"
 

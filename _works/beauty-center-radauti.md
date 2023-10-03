@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/vogue.jpeg
+image: assets/img/logos/voguesalon.png
 short_description: "10% discount pentru toate serviciile oferite de salon"
 
 # full details
