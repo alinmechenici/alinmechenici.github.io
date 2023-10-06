@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: Suceava
 location_slug: suceava
-image: assets/img/logos/scoalaromanobritanica.png
+image: assets/img/logos/srb.png
 short_description: "Acces gratuit pentru Scoala Parintilor"
 
 # full details

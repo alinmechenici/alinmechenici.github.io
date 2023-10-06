@@ -6,7 +6,7 @@ category: Educatie
 category_slug: educatie
 location: Craiova
 location_slug: craiova
-image: assets/img/logos/scoalaromanobritanica.png
+image: assets/img/logos/srb.png
 short_description: " Acces gratuit pentru Scoala Parintilor"
 
 # full details
