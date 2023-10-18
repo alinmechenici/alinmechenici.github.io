@@ -7,7 +7,7 @@ category_slug: timp-liber
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/moving.png
-short_description: "30% reducere la abonamentul cu 4 intrari lunare"
+short_description: "4 intrari pe luna la sala incluse in abonamentul EduBenefits"
 
 # full details
 live_preview: https://www.4moving.ro

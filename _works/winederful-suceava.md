@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Winderful, Suceava
+title: Winederful, Suceava
 category: Produse
 category_slug: produse
 location: Suceava
