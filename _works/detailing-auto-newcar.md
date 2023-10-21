@@ -1,0 +1,29 @@
+
+---
+# preview details
+layout: works-single
+title: DETAILING AUTO NEW CAR
+category: servicii
+category_slug: servicii
+location: Oltenia
+location_slug:  craiova
+category_slug: servicii
+image: assets/img/logos/detailingauto.png  #  https://drive.google.com/file/d/1JV4JUck_e7uVzdnMBrs_47pwK7B03z62/view?usp=share_link
+short_description: "10% reducere Detailing Interior. Examinare auto gratuit"
+
+
+# full details
+live_preview: https://www.facebook.com/p/Detailing-Auto-New-Car-100063715981579/
+info:
+  - label: Reducere
+    value: 10%
+
+  - label: Contact
+    value: https://www.facebook.com/p/Detailing-Auto-New-Car-100063715981579/
+
+description1:
+  show: yes
+  title:  "10% reducere Detailing Interior. Examinare auto gratuit"
+  text: "<p>.</p>"
+---
+

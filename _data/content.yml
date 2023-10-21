@@ -17,7 +17,7 @@ hero:
     label: "Aboneaza-te!"
     link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
   button2:
-    label: "Solicita oferta"
+    label: "Descarca lista"
     link: "#contact-section"
   bg_title: "Despre"
   info:
@@ -27,6 +27,8 @@ hero:
     - num: "80+"
       value: "Parteneri <strong>in retea</strong>"
 
+    - num: "<strong>+</strong>"
+      value: "<strong>Descarca</strong> lista in format PDF"
 ### Services [ services ]
 services:
   title: "Despre"
@@ -95,12 +97,12 @@ testimonials:
     - image: "assets/img/logos/moving.png"
       name: "4 Moving"
 #      role: "4moving.ro"
-      text: "4 intrări pe lună la sală incluse in abonamentul edubenefits"
+      text: "4 intrări pe lună la sală incluse in abonamentul EduBenefits"
 
     - image: "assets/img/logos/chenist.png"
       name: "CHENIST Cybersecurity"
 #      role: "resources.chenist.academy"
-      text: "Oferim acces VIP in platforma de continut Cyber Hygiene, tuturor posesorilor de abonamente edubenefits."
+      text: "Oferim acces VIP in platforma de continut Cyber Hygiene, tuturor posesorilor de abonamente EduBenefits."
 
 
 #    - image: "assets/img/testimonials/testi4-3.jpg"
@@ -128,15 +130,15 @@ services:
       button_link: "/national"
 
     - title: "Oltenia"
-      subtitle: "Beneficii in Craiova"
+      subtitle: "Beneficii in Oltenia"
       text: " "
-      button_label: "Craiova"
+      button_label: "Oltenia"
       button_link: "/craiova"
 
     - title: "Moldova"
-      subtitle: "Beneficii in Suceava"
+      subtitle: "Beneficii in Moldova"
       text: " "
-      button_label: "Suceava"
+      button_label: "Moldova"
       button_link: "/suceava"
 
 

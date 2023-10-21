@@ -73,12 +73,21 @@ layout: default
 <!-- Section - Image -->
 <div class="section section-inner">
 
-	<!-- Image -->
-	<div class="m-image-large">
-		<div class="image">
-			<div class="img js-parallax" style="background-image: url({{ page.full_image | relative_url }});"></div>
-		</div>
-	</div>
+
+
+	<!-- Container for both images -->
+<div class="image-container">
+
+    <!-- Existing Image -->
+    <div class="m-image-large">
+        <div class="image">
+            <div class="img js-parallax" style="background-image: url({{ page.full_image | relative_url }});"></div>
+        </div>
+    </div>
+
+
+</div>
+
 
 </div>
 {% endif %}

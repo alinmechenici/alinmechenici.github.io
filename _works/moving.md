@@ -18,7 +18,7 @@ info:
 
 description1:
   show: yes
-  title: "4 intrări pe lună la sală incluse in abonamentul edubenefits" 
+  title: "4 intrări pe lună la sală incluse in abonamentul EduBenefits" 
   text: "<p>.</p>
   "
 
