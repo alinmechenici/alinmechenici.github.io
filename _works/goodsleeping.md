@@ -7,7 +7,7 @@ category: Produse
 category_slug: produse
 location: National
 location_slug: national
-image: assets/img/logos/goodsleeping.png  #  https://drive.google.com/file/d/1H_WxR9WMABiHhYY41YW_IRN86jVJYWqC/view?usp=share_link
+image: assets/img/logos/edubenefits.png # goodsleeping.png  https://drive.google.com/file/d/1H_WxR9WMABiHhYY41YW_IRN86jVJYWqC/view?usp=share_link
 short_description: "20% discount la orice comanda"
 
 

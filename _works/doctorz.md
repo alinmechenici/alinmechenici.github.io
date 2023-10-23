@@ -6,7 +6,7 @@ category: animale
 category_slug: animale
 location: National
 location_slug: national
-image: assets/img/logos/supermarketulanimalelor.png  #  https://drive.google.com/file/d/13BD0FngGVO8BBwtitqYm98qHida6Syz2/view?usp=share_link
+image: assets/img/logos/edubenefits.png # supermarketulanimalelor.png  #  https://drive.google.com/file/d/13BD0FngGVO8BBwtitqYm98qHida6Syz2/view?usp=share_link
 short_description: "consultatie gratuita pe an <br> 30% discount la intervențiile chirurgicale"
 
 # full details

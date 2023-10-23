@@ -6,7 +6,7 @@ category: educatie
 category_slug: educatie
 location: Craiova
 location_slug: craiova
-image: assets/img/logos/britacademy.png  #  https://drive.google.com/file/d/1fq9FWhX6Qqaw71f-lVoXwtA-vtk4wNok/view?usp=share_link
+image: assets/img/logos/edubenefits.png # britacademy.png  #  https://drive.google.com/file/d/1fq9FWhX6Qqaw71f-lVoXwtA-vtk4wNok/view?usp=share_link
 short_description: "10% reducere la taxa lunara pentru programele educationale"
 
 # full details

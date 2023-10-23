@@ -7,7 +7,7 @@ category: constructii
 category_slug:  constructii
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/bam.png  #  https://drive.google.com/file/d/1qdKhJ2pYJLYu49kZtV0KhgjQbv0mwSec/view?usp=share_link
+image: assets/img/logos/edubenefits.png # bam.png  #  https://drive.google.com/file/d/1qdKhJ2pYJLYu49kZtV0KhgjQbv0mwSec/view?usp=share_link
 short_description:  10% reducere la toate serviciile
 
 # full details

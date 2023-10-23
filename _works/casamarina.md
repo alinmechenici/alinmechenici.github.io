@@ -6,7 +6,7 @@ category_slug: SERVICII OSPITALITATE
 category_slug: ospitalitate
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/casamarina.png  #  https://drive.google.com/file/d/1vLKpZfZZIe6xqbm3CQ9yzjt1xVFQKNVr/view?usp=share_link
+image: assets/img/logos/edubenefits.png # casamarina.png  #  https://drive.google.com/file/d/1vLKpZfZZIe6xqbm3CQ9yzjt1xVFQKNVr/view?usp=share_link
 short_description: "10% pentru serviciile de cazare din zilele de weekend"
 
 

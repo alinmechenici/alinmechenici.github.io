@@ -7,7 +7,7 @@ category_slug: constructii
 location: National
 location_slug: national
 category_slug: constructii
-image: assets/img/logos/enacad.png  #  https://drive.google.com/file/d/1231v-jogNLSiLicgK-3OKANloV7Kde2l/view?usp=share_link
+image: assets/img/logos/edubenefits.png # enacad.png  #  https://drive.google.com/file/d/1231v-jogNLSiLicgK-3OKANloV7Kde2l/view?usp=share_link
 short_description: "Consultanță gratuită. Reduceri în funcție de amploarea lucrării"
 
 # full details

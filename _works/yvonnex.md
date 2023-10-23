@@ -7,7 +7,7 @@ category: Sanatate
 category_slug: sanatate
 location: National
 location_slug:  national
-image: assets/img/logos/yvonnexpsy.png  #  https://drive.google.com/file/d/1VqLJz69mNBhFZSwtfZHHS6i7PZqfTuT1/view?usp=share_link
+image: assets/img/logos/edubenefits.png # yvonnexpsy.png  #  https://drive.google.com/file/d/1VqLJz69mNBhFZSwtfZHHS6i7PZqfTuT1/view?usp=share_link
 short_description: "30% reducere consiliere și dezoltare personală individuală, de cuplu sau de grup"
 
 # full details

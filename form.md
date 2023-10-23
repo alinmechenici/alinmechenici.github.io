@@ -1,22 +1,4 @@
----
-layout: page
-title: ofera
-category: Design
-image: assets/img/blog/blog8.jpg
-author: Cristina
-tags: ofera
----
 
-
-<br>
-<h2>Ofera beneficii</h2>
-<br>
-
-Ofera si tu beneficii pentru reteaua EduBenefits. Poti face asta completand formularul de mai jos:
-
-<br><br>
-
-<!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/moqzggly"
   method="POST"
@@ -32,7 +14,7 @@ Ofera si tu beneficii pentru reteaua EduBenefits. Poti face asta completand form
    <label for="note">Descriere activitate derulata</label>
     <textarea rows="2" name="note" id="note" placeholder="Un text de maximum 20 de cuvinte."></textarea>
     </label>
-    <!--<input type="file" name="upload"> -->
+    
     <label for="note">Link catre logo-ul companiei</label>
     <textarea rows="2" name="note" id="note" placeholder="Ex: website.ro/logo.png"></textarea>
    </label>
@@ -54,5 +36,3 @@ Ofera si tu beneficii pentru reteaua EduBenefits. Poti face asta completand form
   <button type="submit">Trimite</button>
 </form>
 
-
-<p>Pentru alte informatii, ne poti contacta aici: <a href="https://edubenefits.scoalabritanica.ro/#contact-section">Contact</a> <em class="info"></em></p>.

@@ -6,7 +6,7 @@ category: constructii
 category_slug: constructii
 location: Oltenia
 location_slug:  craiova
-image: assets/img/logos/maboutilaje.png  #  https://drive.google.com/file/d/1XdNftVRLdymn2hn5xp5BCpYe3oEedUZP/view?usp=share_link
+image: assets/img/logos/edubenefits.png # maboutilaje.png  #  https://drive.google.com/file/d/1XdNftVRLdymn2hn5xp5BCpYe3oEedUZP/view?usp=share_link
 short_description:  5% reducere la utilaje de constructii si atasamente
 
 # full details

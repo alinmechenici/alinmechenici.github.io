@@ -6,7 +6,7 @@ category: Sanatate
 category_slug: sanatate
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/horiaoctavian.png #  https://drive.google.com/file/d/1wwPeaxK7LD-YIWgBYznyzPzvASM0b4hQ/view?usp=share_link
+image: assets/img/logos/edubenefits.png # horiaoctavian.png #  https://drive.google.com/file/d/1wwPeaxK7LD-YIWgBYznyzPzvASM0b4hQ/view?usp=share_link
 short_description:  10% reducere pentru tratamente. Consultație gratuită
 
 # full details

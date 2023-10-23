@@ -300,6 +300,111 @@ pricing:
     #    link: "#contact-section"
 
 
+### Pachete [ pachete ]
+pachete:
+  title: "Pachete de beneficii"
+  subtitle: "membership /<b> Card EduBenefits</b>"
+  bg_title: "Preturi"
+
+  items:
+    - name: "Pachetul 1"
+      center: true
+      price: "Intre 750 si 4499 <b>RON</b>"
+      price_after: "/ luna"
+      text: " "
+      list:
+        - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+          included: true
+        - value: "Expunere ofertă pe site-ul EduBenefits"
+          included: true
+        - value: "Transmiterea de oferte către utilizatorii de card"
+          included: true
+        - value: "1 postare pe lună în Social Media"
+          included: true
+        - value: "Posibilitatea de a oferi materiale promoționale beneficiarilor ARTI"
+          included: true
+      button:
+        label: "Alege"
+        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+
+    - name: "Pachetul 2"
+      center: true
+      label: "Popular"
+      price: "Intre 4500 si 14850 <b>RON</b>"
+      price_after: "/ luna"
+      text: " "
+      list:
+        - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+          included: true
+        - value: "Expunere ofertă pe site-ul EduBenefits"
+          included: true
+        - value: "Transmiterea de oferte către utilizatorii de card"
+          included: true
+        - value: "2 postare pe lună în Social Media"
+          included: true
+        - value: "Posibilitatea de a oferi materiale promoționale beneficiarilor ARTI"
+          included: true
+        - value: "Organizare de programe de voluntariat corporatist"
+          included: true      
+        - value: "Promovarea în cadrul evenimentelor ARTI"
+          included: true
+        - value: "Promovare prin ecrane de publicitate la intrarea în SRB și în diferite spații publice sau private cu denumirea de COMPANIE IMPLICATĂ ÎN EDUCAȚIE"
+          included: true
+      button:
+        label: "Alege"
+        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+
+    - name: "Pachetul 3"
+      center: true
+      label: "Popular"
+      price: "Intre 4500 si 14850 <b>RON</b>"
+      price_after: "/ luna"
+      text: " "
+      list:
+        - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+          included: true
+        - value: "Expunere ofertă pe site-ul EduBenefits"
+          included: true
+        - value: "Transmiterea de oferte către utilizatorii de card"
+          included: true
+        - value: "2 postare pe lună în Social Media"
+          included: true
+        - value: "Posibilitatea de a oferi materiale promoționale beneficiarilor ARTI"
+          included: true
+        - value: "Organizare de programe de voluntariat corporatist"
+          included: true      
+        - value: "Promovarea în cadrul evenimentelor ARTI"
+          included: true
+        - value: "Promovare prin ecrane de publicitate la intrarea în SRB și în diferite spații publice sau private cu denumirea de COMPANIE IMPLICATĂ ÎN EDUCAȚIE"
+          included: true        
+        - value: "Roll-up al companiei la toate evenimentele ARTI, organizate în cadrul tuturor programelor: târguri SRB, conferințe, traininguri, Semimaratonul Craiovei, expozițiile publice de noi tehnologii în educație Școli SMART pentru copii SMART."
+          included: true
+        
+      button:
+        label: "Alege"
+        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+
+    #- name: "Anual"
+    #  center: false
+    #  price: "1.249 <b>RON</b>"
+    #  price_after: "5 ani"
+    #  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+    #  list:
+    #    - value: "Brand Design"
+    #      included: true
+    #    - value: "Web Development"
+    #      included: true
+    #    - value: "Advertising"
+    #      included: true
+    #    - value: "Photography"
+    #      included: true
+    #  button:
+    #    label: "Start Project"
+    #    link: "#contact-section"
+
+
+
+
 ### Blog [ blog ]
 #items generates from dir /_posts/*
 #blog:

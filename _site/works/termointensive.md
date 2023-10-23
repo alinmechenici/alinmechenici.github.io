@@ -7,7 +7,7 @@ category: constructii
 category_slug: constructii
 location: Oltenia
 location_slug:  craiova
-image: assets/img/logos/termointensive.png  #  https://drive.google.com/file/d/1C0LuP3SApW924TL8CgnaPinQGfgPME6L/view?usp=share_link
+image: assets/img/logos/edubenefits.png # termointensive.png  #  https://drive.google.com/file/d/1C0LuP3SApW924TL8CgnaPinQGfgPME6L/view?usp=share_link
 short_description: "10% reducere la lucrările de construcție"
 
 # full details

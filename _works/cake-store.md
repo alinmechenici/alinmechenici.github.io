@@ -6,7 +6,7 @@ category: SERVICII OSPITALITATE
 category_slug: ospitalitate
 location: Oltenia
 location_slug:  craiova
-image: assets/img/logos/cakestore.png #  https://drive.google.com/file/d/1UES9_zTTf1enDGVc0XTcumxNDx12e4-w/view?usp=share_link
+image: assets/img/logos/edubenefits.png # cakestore.png #  https://drive.google.com/file/d/1UES9_zTTf1enDGVc0XTcumxNDx12e4-w/view?usp=share_link
 short_description: 10% reducere la orice achiziție
 
 

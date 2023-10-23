@@ -7,7 +7,7 @@ category: produse
 category_slug: Produse
 location: National
 location_slug: national
-image: assets/img/logos/fitodepo.png  #  https://drive.google.com/file/d/10TvPTqrHLSGakD7izQnmy_AjJY2Q2EK6/view?usp=share_link
+image: assets/img/logos/edubenefits.png # fitodepo.png  #  https://drive.google.com/file/d/10TvPTqrHLSGakD7izQnmy_AjJY2Q2EK6/view?usp=share_link
 short_description: "10% discount pentru orice comanda"
 
 
