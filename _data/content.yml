@@ -309,6 +309,7 @@ pachete:
   items:
     - name: "Pachetul 1"
       center: true
+      label: "Intro"
       price: "Intre 750 si 4499 <b>RON</b>"
       price_after: "/ luna"
       text: " "
@@ -356,15 +357,15 @@ pachete:
 
     - name: "Pachetul 3"
       center: true
-      label: "Popular"
+      label: "Extra"
       price: "Peste 15000 <b>RON</b>"
       price_after: "/ luna"
       text: " "
       list:
         - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
-          included: false
+          included: true
         - value: "Expunere ofertă pe site-ul EduBenefits"
-          included: false
+          included: true
         - value: "Transmiterea de oferte către utilizatorii de card"
           included: true
         - value: "2 postare pe lună în Social Media"
