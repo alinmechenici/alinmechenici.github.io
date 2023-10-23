@@ -357,7 +357,7 @@ pachete:
     - name: "Pachetul 3"
       center: true
       label: "Popular"
-      price: "Intre 4500 si 14850 <b>RON</b>"
+      price: "Peste 15000 <b>RON</b>"
       price_after: "/ luna"
       text: " "
       list:
