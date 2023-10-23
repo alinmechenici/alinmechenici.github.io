@@ -529,6 +529,36 @@ body.dark-skin {
 }
 
 /**
+* Section Pachete
+**/
+
+.dark-skin .pachete-item {
+	background: #1d222a;
+	border: 2px solid #1d222a;
+}
+
+.dark-skin .pachete-col.center .pachete-item {
+	border-color: #a3a5a7;
+}
+
+.dark-skin .pachete-col.center .label {
+	color: #fff;
+	border: 2px solid #29a587;
+  box-shadow: 5px 5px 0px 0px rgba(255, 255, 255, 0.1);
+}
+
+.dark-skin .pachete-item .pachete {
+	color: #fff;
+}
+
+.dark-skin .pachete-item .list ul li em {
+	color: #676767;
+}
+
+/**
+
+
+
 * Section Testimonials
 **/
 

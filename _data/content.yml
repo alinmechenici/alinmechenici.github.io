@@ -362,9 +362,9 @@ pachete:
       text: " "
       list:
         - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
-          included: true
+          included: false
         - value: "Expunere ofertă pe site-ul EduBenefits"
-          included: true
+          included: false
         - value: "Transmiterea de oferte către utilizatorii de card"
           included: true
         - value: "2 postare pe lună în Social Media"
