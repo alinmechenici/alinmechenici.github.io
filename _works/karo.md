@@ -6,7 +6,7 @@ category: constructii
 category_slug: constructii
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/edubenefits.png # karo.png  #  https://drive.google.com/file/d/1yar7HcPVc1IvAS5cgKOmwlJFoTeL9AS4/view?usp=share_link
+image: assets/img/logos/karo-home.png
 short_description: "5-10% reducere la orice comanda de perdele si draperii"
 
 

@@ -6,7 +6,7 @@ category: Sanatate
 category_slug: sanatate
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/edubenefits.png # steinercentrudentar.png  #  https://drive.google.com/file/d/1dh5fWbcAT4GtURVg21o8bHkmh2t6Vh4v/view?usp=share_link
+image: assets/img/logos/steiner.png
 short_description: 10% reducere la toate tratamentele
 
 

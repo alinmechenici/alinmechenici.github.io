@@ -6,7 +6,7 @@ category: Constructii
 category_slug: constructii
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/edubenefits.png # policolorexim.png
+image: assets/img/logos/policolor.png
 short_description:  "10% reducere pentru: vopsea lavabila interior/exterior, amorse, diluanti, emailuri, lacuri, accesorii vopsitorie (smirghel,pensule,benzi adezive mascare)"
 
 # full details

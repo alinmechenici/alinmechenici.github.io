@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -6,7 +5,7 @@ title: ZOISS
 location: National
 location_slug: national
 category_slug: constructii
-image: assets/img/logos/edubenefits.png # zoiss.png  #  https://drive.google.com/file/d/13M5U7E08zUoz_Y1mt1aCd_O0oOq0SKoi/view?usp=share_link
+image: assets/img/logos/zoiss.png
 short_description: "5% reducere - valoarea reducerii aplicate este de 5% din valoarea fara TVA a achizitiilor. Nu se cumuleaza cu alte oferte/reduceri sau alte coduri de reducere"
 
 # full details

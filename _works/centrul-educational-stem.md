@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -6,12 +5,12 @@ title: CENTRU EDUCAȚIONAL STEAM
 category: Educatie
 category_slug: educatie
 location: Craiova
-location_slug:  craiova
-image: assets/img/logos/edubenefits.png # centrueducationalstem.png  #  https://drive.google.com/file/d/1ZydozPiqEWf39lVrBbaxeTR4JVYgXqa0/view?usp=share_link
+location_slug: craiova
+image: assets/img/logos/steamcentru.png
 short_description: "10% taxa lunara la toate programele Young Engineers. lectie gratuita"
 
 # full details
-live_preview: {website}
+live_preview:
 info:
   - label: Reducere
     value: 10%

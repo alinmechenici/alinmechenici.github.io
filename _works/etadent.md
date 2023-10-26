@@ -7,7 +7,7 @@ category: Sanatate
 category_slug: sanatate
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/edubenefits.png # etadent.png  #  https://drive.google.com/file/d/19ycb6Fax4a7D_npFkDillBpE3bH5DUYR/view?usp=share_link
+image: assets/img/logos/etadent.png
 short_description: "1 consultatie gratuita <br> 1 igienizare orala gratuita pe an <br> 10-15% reducere la anumite manopere"
 
 # full details

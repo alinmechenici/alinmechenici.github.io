@@ -6,12 +6,12 @@ title: KMD POWER GYM
 category_slug: Sport
 category_slug: sport
 location: Oltenia
-location_slug:  craiova
-image: assets/img/logos/edubenefits.png # kmdpower.png  #  https://drive.google.com/file/d/1GQ7kE4ID5-5OqqLoqu-Rw23TIB_ZYwus/view?usp=share_link
+location_slug: craiova
+image: assets/img/logos/kmdpowergym.png
 short_description: 25% reducere
 
 # full details
-live_preview: {website}
+live_preview:
 info:
   - label: Reducere
     value: 25%

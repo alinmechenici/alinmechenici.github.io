@@ -7,7 +7,7 @@ category: produse
 category_slug: produse
 location: National
 location_slug: national
-image: assets/img/logos/edubenefits.png # dezinfectanti.png  #  https://drive.google.com/file/d/1-Ehc6tiyeRHHhIFRIQ3vQ2l4u6Sj-Z62/view?usp=share_link
+image:image: assets/img/logos/dezinfectantipro.png
 short_description: 10% discount la orice comanda
 
 

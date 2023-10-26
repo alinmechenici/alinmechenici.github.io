@@ -7,7 +7,7 @@ category_slug: educatie
 location: Oltenia
 location_slug: craiova
 category_slug: educatie
-image: assets/img/logos/edubenefits.png # publicspeakingkids.png  #  https://drive.google.com/file/d/1g9e_ifMjHZBKCenML7pwwxTaAuo1O1VM/view?usp=share_link
+image: assets/img/logos/publicspeak.png
 short_description: "25% reducere la cursul de public Speaking pentru copii in varianta fizica si in varianta online"
 
 # full details

@@ -6,7 +6,7 @@ category: produse
 category_slug: produse
 location: National
 location_slug: national
-image: assets/img/logos/edubenefits.png # medtehnica.png  #  https://drive.google.com/file/d/1XFL92pHN9fjiyp6BZRxgVAepraekMluU/view?usp=share_link
+image: assets/img/logos/medtehnica.png
 short_description: "10% discount la produse de tip tehnică medicală"
 
 

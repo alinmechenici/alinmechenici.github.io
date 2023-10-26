@@ -6,8 +6,7 @@ title: ISOLDE LAVENDER
 category: Produse
 category_slug: produse
 location: National
-location_slug: national
-image: assets/img/logos/edubenefits.png # isolde.png  #  https://drive.google.com/file/d/1_8z-DviJP0rghrMouQHYzIaOzN699rHy/view?usp=share_link
+location_slug: nationalimage: assets/img/logos/isoldelavender.png
 short_description: "10% discount la preturile de pe site pentru produse pe baza de lavandă: seturi cadou, mărturii pentru evenimente, produse cosmetice"
 
 # full details

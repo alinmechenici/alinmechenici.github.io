@@ -5,8 +5,8 @@ title:  FLANDERS
 category: constructii
 category_slug: constructii
 location: National
-location_slug: national	
-image: assets/img/logos/edubenefits.png # flanders.png  #  https://drive.google.com/file/d/1VXhkT_BpXzWY1giZle51m1G-xNzSYbST/view?usp=share_link
+location_slug: national
+image: assets/img/logos/flanders.png
 short_description:  10% reducere
 
 # full details

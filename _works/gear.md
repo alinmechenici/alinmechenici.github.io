@@ -6,7 +6,7 @@ category: constructii
 category_slug: constructii
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/edubenefits.png # gearwheel.png  #  https://drive.google.com/file/d/1gDf863kWFobXKU8kxf4bdj4qKHHI65ae/view?usp=share_link
+image: assets/img/logos/gearwheel.png
 short_description:  5% reducere la utilaje agricole si tractoare
 
 # full details

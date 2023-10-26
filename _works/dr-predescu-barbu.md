@@ -6,7 +6,7 @@ category: Sanatate
 category_slug: sanatate
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/edubenefits.png # predescubarbu.png #  https://drive.google.com/file/d/1DDzXcQ2idZsJRy9Up81EYr0uSr7FVx_e/view?usp=share_link
+image: assets/img/logos/dr-predescu.png
 short_description: "Consultație gratuită <br> 10% reducere la toate tratamentele stomatologice <br>
 30%reducere la detartrajul dentar/an <br>30% reducere la tratamentul de albire dentară"
 

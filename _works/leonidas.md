@@ -6,7 +6,7 @@ category: Produse
 category_slug: produse
 location: National
 location_slug: national
-image: assets/img/logos/edubenefits.png # leonidas.png  #  https://drive.google.com/file/d/1wuVml-L91p-9lfNTmEMWzA-OQYPs2vGE/view?usp=share_link
+image: assets/img/logos/leonidas.png
 short_description: "10% discount la toate produsele"
 
 
