@@ -6,7 +6,7 @@ category: Sanatate
 category_slug: servicii
 location: Oltenia
 location_slug: craiova
-image: assets/img/logos/cardiomed.png
+image: assets/img/logos/cadworks.png
 short_description: "Reducere de 5% la produsele 3D CONNEXION, discounturi de pana la 25% la cursurile de instruire de pe platforma de training online Academia Cadworks, <br> alte facilități pentru soluțiile integrate 3D - aplicabile relațiilor B2B"
 
 # full details

@@ -1,11 +1,11 @@
 ---
 # preview details
 layout: works-single
-title:  BOBOC SERGIU-GEORGE II
+title: BOBOC SERGIU-GEORGE II
 category: Servicii
 category_slug: servicii
 location: National
-location_slug:  national
+location_slug: national
 image: assets/img/logos/bobocsergiu.png  
 short_description: "10% reducere la toate serviciile de consultanta si dezvoltare software"
 
