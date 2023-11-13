@@ -24,11 +24,11 @@ hero:
     - num: "130 <strong>+</strong>"
       value: "Beneficii <strong>pentru angajati</strong>"
 
-    - num: "80+"
+    - num: "80<strong>+</strong>"
       value: "Parteneri <strong>in retea</strong>"
 
-    - num: "<strong>+</strong>"
-      value: "<strong>Descarca</strong> lista in format PDF"
+    - num: "40<strong>+</strong>"
+      value: "<strong>Clienti</strong> corporate"
 ### Services [ services ]
 services:
   title: "Despre"
