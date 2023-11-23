@@ -23,7 +23,7 @@ info:
 
 description1:
   show: yes
-  title: "10% reducere la toate serviciile"
+  title: "15% reducere la toate serviciile"
   text: "<p>.</p>
   "
 ---
