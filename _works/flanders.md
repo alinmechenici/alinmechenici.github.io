@@ -20,7 +20,7 @@ info:
 
 description1:
   show: yes
-  title: " {offer} "
+  title: "10% Reducere"
   text: "<p>.</p>"
 ---
 

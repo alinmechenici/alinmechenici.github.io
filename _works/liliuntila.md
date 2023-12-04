@@ -7,7 +7,7 @@ category_slug: timp-liber
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/liliuntila.png
-short_description: "sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. Prima sedinta gratuit.
+short_description: "Sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. Prima sedinta gratuit.
   <br> Educatie nutritionala personalizata gratuit." 
 
 # full details
@@ -22,8 +22,8 @@ info:
 
 description1:
   show: yes
-  title: "sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. 
-prima sedinta gratuit.
+  title: "Sedinte cu durata de 60 de minute, 8 sedinte/luna la pretul de 700 RON. 
+Prima sedinta gratuit.
   <br>Educatie nutritionala personalizata gratuit." 
   text: "<p>.</p>
   "

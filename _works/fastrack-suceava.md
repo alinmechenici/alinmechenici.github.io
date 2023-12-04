@@ -16,9 +16,6 @@ short_description: "
 live_preview: https://www.facebook.com/fastrackidssuceava/
 full_image: assets/img/works/FasTracKids.png
 info:
-  - label: Reducere
-    value: 10% taxa lunara
-
   - label: Gratuit
     value: 1 lectie
 

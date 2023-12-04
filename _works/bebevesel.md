@@ -21,7 +21,7 @@ info:
 
 description1:
   show: yes
-  title: 10% taxă lunară pentru programele educaționale
+  title: "10% acces la conferintele de parenting"
   text: "<p>.</p>
   "
 

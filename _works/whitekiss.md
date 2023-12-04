@@ -15,11 +15,9 @@ short_description:  "- 1 consultatie stomatologica gratuita / an ( include plan 
 # full details
 live_preview: https://www.whitekiss.ro
 info:
-  - label: Reducere
-    value: 5% 
-
   - label: Gratuit
     value: consultatie, igienizare
+    
   - label: Contact
     value: <a href="https://www.whitekiss.ro" target="_blank">Website</a>
 

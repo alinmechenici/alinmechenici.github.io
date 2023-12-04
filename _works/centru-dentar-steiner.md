@@ -21,7 +21,7 @@ info:
 
 description1:
   show: yes
-  title:  " {offer} "
+  title:  "10% reducere la toate tratamentele"
   text: "<p>.</p>"
 ---
 

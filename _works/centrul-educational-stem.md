@@ -7,7 +7,7 @@ category_slug: educatie
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/steamcentru.png
-short_description: "10% taxa lunara la toate programele Young Engineers. lectie gratuita"
+short_description: "10% taxa lunara la toate programele Young Engineers."
 
 # full details
 live_preview:
@@ -20,7 +20,7 @@ info:
 
 description1:
   show: yes
-  title:  "10% taxa lunara la toate programele Young Engineers. lectie gratuita"
+  title:  "10% taxa lunara la toate programele Young Engineers."
   text: "<p>.</p>"
 ---
    

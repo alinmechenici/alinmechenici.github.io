@@ -13,7 +13,7 @@ short_description: "1.000 RON reducere la executia unui sistem fotovoltaic mono/
 live_preview: https://www.almpower.ro/
 info:
   - label: Reducere
-    value: 10% reducere
+    value: 1000 RON
 
   - label: Contact
     value: <a href="https://www.almpower.ro/" target="_blank">Website</a>

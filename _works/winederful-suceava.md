@@ -12,7 +12,7 @@ short_description: "Wine, bubbles and spirits shop - the perfect gift shop: 10% 
 # full details
 info:
   - label: Reducere
-    value: 5% 
+    value: 10% 
   - label: Contact
     value: <a href="http://www.aldocaffe.com/" target="_blank">Website</a>
 
