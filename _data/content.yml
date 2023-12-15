@@ -8,7 +8,7 @@ hero:
   image: "assets/img/profile2.png"
   image_alt: "SRB"
   title: "<b>Edu</b>Benefits"
-  before_title: "Primul card de <b>beneficii educaționale</b> și de familie din România"
+  before_title: "Primul instrument de <b>marketing comunitar</b> din România"
   after_title: "Vino <strong>alaturi de noi!</strong>"
   description: "Dacă ești persoană <b>juridică</b>, promovează-ți initiațivele, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
   <br> Dacă ești persoană <b>fizică</b> și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
@@ -22,7 +22,7 @@ hero:
   bg_title: "Despre"
   info:
     - num: "130 <strong>+</strong>"
-      value: "Beneficii <strong>pentru angajati</strong>"
+      value: "de oferte <strong>pentru utilizatori</strong>"
 
     - num: "80<strong>+</strong>"
       value: "Parteneri <strong>in retea</strong>"
@@ -78,8 +78,8 @@ services:
 
 ### Testimonials [ testimonials ]
 testimonials:
-  title: "Beneficii incluse"
-  subtitle: "in toate <b>abonamentele </b> Edubenefits"
+  title: "Oferte incluse"
+  #subtitle: "in toate <b>abonamentele </b> Edubenefits"
   bg_title: "Inclus"
 
   items:
@@ -119,24 +119,24 @@ testimonials:
 ### Services [ services ]
 services:
   title: "Locatii"
-  subtitle: "Beneficii la nivel <b>national</b>"
+  subtitle: "Oferte la nivel <b>national</b>"
   bg_title: "locatii"
 
   items:
     - title: "Romania"
-      subtitle: "Beneficii la nivel national"
+      subtitle: "Oferte la nivel national"
       text: " "
       button_label: "National"
       button_link: "/national"
 
     - title: "Oltenia"
-      subtitle: "Beneficii in Oltenia"
+      subtitle: "Oferte in Oltenia"
       text: " "
       button_label: "Oltenia"
       button_link: "/craiova"
 
     - title: "Moldova"
-      subtitle: "Beneficii in Moldova"
+      subtitle: "Oferte in Moldova"
       text: " "
       button_label: "Moldova"
       button_link: "/suceava"
@@ -145,13 +145,13 @@ services:
 ### Skills [ skills ]
 #skills:
 #  title: "Locatii"
-#  subtitle: "Beneficii in <b>reteaua nationala</b>"
+#  subtitle: "Oferte in <b>reteaua nationala</b>"
 #  bg_title: "Locatii"
 
 #  column1: 
 #    items:
 #      - label: "Craiova" #0-10 progress in dots
-#        text: "Beneficii in Craiova"
+#        text: "Oferte in Craiova"
 #        value: "85" #0-100 progress in %
 #       button_label: "Craiova"
 #        link: "https://www.edubenefits.scoalabritanica.ro/craiova"
@@ -163,7 +163,7 @@ services:
 #  column2:
 #    items:
 #      - label: "Suceava" #0-10 progress in dots
-#        text: "Beneficii in Suceava."
+#        text: "Oferte in Suceava."
 #        value: "10" #0-100 progress in %
 #        button_label: "Suceava"
 #       link: "https://www.edubenefits.scoalabritanica.ro/suceava"
@@ -193,17 +193,17 @@ services:
 #    title: "Beneficii per locati"
 #    items:
 #      - name: "Craiova"
-#        subname: "Beneficii in Craiova"
+#        subname: "Oferte in Craiova"
 #        period: "2014 - 2016"
 #        text: "."
 
 #      - name: "Suceava"
-#        subname: "Beneficii in Suceava"
+#        subname: "Oferte in Suceava"
 #        period: "2012 - 2014"
 #        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 #      - name: "National"
-#        subname: "Beneficii la nivel national"
+#        subname: "Oferte la nivel national"
 #        period: "2010 - 2012"
 #        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
@@ -211,7 +211,7 @@ services:
 #    title: "Locatii"
 #    items:
 #      - name: "Craiova"
-#        subname: "Beneficii in Craiova"
+#        subname: "Oferte in Craiova"
 #        period: "2020 - <b>Present</b>"
 #        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
@@ -302,7 +302,7 @@ pricing:
 
 ### Pachete [ pachete ]
 pachete:
-  title: "Pachete de beneficii"
+  title: "Pachete"
   subtitle: "membership /<b> Card EduBenefits</b>"
   bg_title: "Preturi"
 
@@ -314,7 +314,7 @@ pachete:
       price_after: "/ luna"
       text: " "
       list:
-        - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+        - value: "Introducere oferte pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
           included: true
         - value: "Expunere ofertă pe site-ul EduBenefits"
           included: true
@@ -335,7 +335,7 @@ pachete:
       price_after: "/ luna"
       text: " "
       list:
-        - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+        - value: "Introducere oferte pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
           included: true
         - value: "Expunere ofertă pe site-ul EduBenefits"
           included: true
@@ -362,7 +362,7 @@ pachete:
       price_after: "/ luna"
       text: " "
       list:
-        - value: "Introducere beneficii pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+        - value: "Introducere oferte pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
           included: true
         - value: "Expunere ofertă pe site-ul EduBenefits"
           included: true
@@ -439,8 +439,8 @@ contacts:
 #items generates from dir /_works/*
 portfolio:
   title: "Parteneri"
-  subtitle: "Beneficii <b>oferite de...</b>"
-  bg_title: "Beneficii"
+  subtitle: "Oferte <b>oferite de...</b>"
+  bg_title: "Oferte"
   button:
     link: "works/"
     label: "Vezi toti Partenerii"

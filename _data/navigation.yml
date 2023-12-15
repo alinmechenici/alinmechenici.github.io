@@ -32,12 +32,12 @@ main:
     parent: 0
 
   # Testimonials
-  #- title: "Ofera Beneficii"
+  #- title: "Posteaza oferta"
   #  url: "https://edubenefits.scoalabritanica.ro/beneficii/2023/06/20/ofera-beneficii/"
   #  parent: 0
 
   # Blog
-  #- title: "Vezi Beneficii"
+  #- title: "Vezi oferte"
   #  url: "#blog-section"
   #  parent: 0
   
@@ -64,12 +64,12 @@ main:
   #        url: "https://british-school.profixcard.ro/inregistrare"
 
    # Pricing
-  - title: "Ofera beneficii"
+  - title: "Posteaza oferta"
     url: "https://edubenefits.scoalabritanica.ro/ofera/"
     parent: 0
 
   # Pricing
-  - title: "Vezi Beneficii"
+  - title: "Vezi oferte"
     url: "https://edubenefits.scoalabritanica.ro/works/"
     parent: 0
 
