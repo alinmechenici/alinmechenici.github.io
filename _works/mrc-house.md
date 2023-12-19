@@ -3,7 +3,7 @@
 layout: works-single
 title: MRC HOUSE
 category: ospitalitate
-category_slug:  SERVICII OSPITALITATE
+category_slug: ospitalitate
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/mrc-house.png

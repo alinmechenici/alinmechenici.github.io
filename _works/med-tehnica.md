@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: MED TEHNICA
-category: produse
+category: Produse
 category_slug: produse
 location: National
 location_slug: national

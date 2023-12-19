@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: CAKE STORE
-category: SERVICII OSPITALITATE
+category: Ospitalitate
 category_slug: ospitalitate
 location: Oltenia
 location_slug:  craiova

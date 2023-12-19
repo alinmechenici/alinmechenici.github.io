@@ -3,7 +3,7 @@
 layout: works-single
 title: SC RELIEF PROIECT SRL
 category:  constructii
-category_slug:  constructii
+category_slug:  constructii-amenajari
 location: Oltenia
 location_slug:  craiova
 image: assets/img/logos/edubenefits.png # reliefproiect.png #  https://drive.google.com/file/d/1BlD4sLMGWwM6ZnnVeDFf_ECAYknMtIBd/view?usp=share_link

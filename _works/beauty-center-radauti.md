@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Beauty Center Vogue, Radauti
-category: Produse
-category_slug: produse
+category: Infrumusetare
+category_slug: infrumusetare
 location: Suceava
 location_slug: suceava
 image: assets/img/logos/voguesalon.png

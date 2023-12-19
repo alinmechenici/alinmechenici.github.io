@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Rock Climbing Gym
-category: Timp liber
-category_slug: timp-liber
+category: Sport
+category_slug: sport
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/rockclimb.png

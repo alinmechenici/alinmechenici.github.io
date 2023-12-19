@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: Cad Works
-category: Sanatate
+category: Servicii
 category_slug: servicii
 location: Oltenia
 location_slug: craiova

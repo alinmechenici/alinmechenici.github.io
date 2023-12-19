@@ -4,7 +4,8 @@ layout: works-single
 title: ZOISS
 location: National
 location_slug: national
-category_slug: constructii
+category: Constructii / amenajari
+category_slug: constructii-amenajari
 image: assets/img/logos/zoiss.png
 short_description: "5% reducere - valoarea reducerii aplicate este de 5% din valoarea fara TVA a achizitiilor. Nu se cumuleaza cu alte oferte/reduceri sau alte coduri de reducere"
 

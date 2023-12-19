@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Policolor Exim
-category: Constructii
-category_slug: constructii
+category: Constructii / amenajari
+category_slug: constructii-amenajari
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/policolor.png

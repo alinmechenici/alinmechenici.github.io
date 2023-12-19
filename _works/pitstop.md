@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: PIT STOP PREMIUM
-category: servicii
-category_slug: servicii
+category: Alte servicii
+category_slug: alte-servicii
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/pitstop.png

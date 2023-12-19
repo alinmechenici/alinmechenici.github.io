@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Miere de la Tase
-category: Miere
-category_slug: miere
+category: Produse
+category_slug: produse
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/tase.png

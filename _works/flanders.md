@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title:  FLANDERS
-category: constructii
-category_slug: constructii
+category: constructii / amenajari
+category_slug: constructii-amenajari
 location: National
 location_slug: national
 image: assets/img/logos/flanders.png

@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: PUBLIC SPEAKING FOR KIDS
-category: educatie
+category: Educatie
 category_slug: educatie
 location: Oltenia
 location_slug: craiova

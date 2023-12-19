@@ -3,8 +3,8 @@
 # preview details
 layout: works-single
 title: FITODEPO - Produse fitosanitare
-category: produse
-category_slug: Produse
+category: Produse
+category_slug: produse
 location: National
 location_slug: national
 image: assets/img/logos/fitodepo.png

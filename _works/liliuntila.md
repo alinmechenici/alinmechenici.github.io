@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Lili Untila - Personal Trainer
-category: Timp liber
-category_slug: timp-liber
+category: sanatate
+category_slug: sanatate
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/liliuntila.png

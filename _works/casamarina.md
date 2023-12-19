@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: CASA MARINA
-category_slug: SERVICII OSPITALITATE
+category_slug: Ospitalitate
 category_slug: ospitalitate
 location: Oltenia
 location_slug: craiova

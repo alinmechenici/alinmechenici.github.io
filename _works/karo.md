@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: KARO DECOR TEXTIL
-category: constructii
-category_slug: constructii
+category: constructii / amenajari
+category_slug: constructii-amenajari
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/karo-home.png

@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: EURODINAMIC SRL
-category: Servicii
-category_slug: servicii
+category: Constructii / amenajari
+category_slug: constructii-amenajari
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/eurodinamic.png

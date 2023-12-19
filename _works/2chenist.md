@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: CHENIST.Academy 
-category: Cybersecurity
-category_slug: servicii
+category: Educatie
+category_slug: educatie
 location: National
 location_slug: national
 image: assets/img/logos/chenist.png

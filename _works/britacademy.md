@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: GRADINITA BRIT ACADEMY KIDS
-category: educatie
+category: Educatie
 category_slug: educatie
 location: Craiova
 location_slug: craiova

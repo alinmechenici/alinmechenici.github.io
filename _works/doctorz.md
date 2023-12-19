@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: SUPERMARKETUL ANIMALELOR BY DOCTOR Z 
-category: animale
+category: Animale
 category_slug: animale
 location: National
 location_slug: national

@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: ENA CAD – TOPOGRAFIE ȘI CADASTRU
-category: constructii
-category_slug: constructii
+category: constructii / amenajari
+category_slug: constructii-amenajari
 location: National
 location_slug: national
 category_slug: constructii

@@ -3,11 +3,10 @@
 # preview details
 layout: works-single
 title: DETAILING AUTO NEW CAR
-category: servicii
-category_slug: servicii
 location: Oltenia
 location_slug:  craiova
-category_slug: servicii
+category: Alte servicii
+category_slug: alte-servicii
 image: assets/img/logos/edubenefits.png # detailingauto.png  #  https://drive.google.com/file/d/1JV4JUck_e7uVzdnMBrs_47pwK7B03z62/view?usp=share_link
 short_description: "10% reducere Detailing Interior. Examinare auto gratuit"
 

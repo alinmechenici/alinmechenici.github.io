@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: Traducsim - Traduceri
-category: Servicii
-category_slug: servicii
+category: Alte-servicii
+category_slug: alte-servicii
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/traducsim.png

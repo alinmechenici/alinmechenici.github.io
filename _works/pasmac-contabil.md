@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: Cabinet Expert Contabil Pasmac Catalin
-category: Consultanta
+category: Servicii consultanta
 category_slug: servicii
 location: Craiova
 location_slug: craiova

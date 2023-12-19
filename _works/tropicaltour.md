@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: Tropical Tour
-category: Turism
+category: Ospitalitate
 category_slug: ospitalitate
 location: Craiova
 location_slug: craiova

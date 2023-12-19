@@ -4,7 +4,7 @@
 layout: works-single
 title:  CABINET MEDICAL DR. BUNESCU FLORIN – SERVICII MEDICINA MUNCII
 category: Servicii Medicale
-category_slug: servicii-medicale
+category_slug: servicii
 location: Oltenia
 location_slug: craiova
 image:image: assets/img/logos/dr-bunescu.png

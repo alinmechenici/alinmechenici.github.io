@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: GEAR WHEEL
-category: constructii
-category_slug: constructii
+category: constructii / amenajari
+category_slug: constructii-amenajari
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/gearwheel.png

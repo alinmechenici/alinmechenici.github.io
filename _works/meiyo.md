@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: CLUBUL SPORTIV MEIYO
-category: Timp liber
-category_slug: timp-liber
+category: Educatie
+category_slug: educatie
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/meyo.png

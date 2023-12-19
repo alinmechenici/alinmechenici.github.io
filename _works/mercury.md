@@ -2,7 +2,7 @@
 # preview details
 layout: works-single
 title: MERCURY BUSINESS CLASS
-category_slug: Servicii transport
+category_slug: Transport
 category_slug: transport
 location: Oltenia
 location_slug: craiova

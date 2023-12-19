@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: 8Club
-category: Distractie
-category_slug: photography
+category: Timp liber
+category_slug: timp-liber
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/8club.png

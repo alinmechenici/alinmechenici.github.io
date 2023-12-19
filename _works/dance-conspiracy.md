@@ -3,7 +3,7 @@
 # preview details
 layout: works-single
 title: DANCE CONSPIRACY
-category: educatie
+category: Educatie
 category_slug: educatie
 location: Oltenia
 location_slug: craiova
