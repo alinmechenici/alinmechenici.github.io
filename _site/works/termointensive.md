@@ -3,8 +3,8 @@
 # preview details
 layout: works-single
 title: TERMOINTENSIVE CONSTRUCT
-category: constructii
-category_slug: constructii
+category: constructii / amenajari
+category_slug: constructii-amenajari
 location: Oltenia
 location_slug: craiova
 image: assets/img/logos/termointensive.png

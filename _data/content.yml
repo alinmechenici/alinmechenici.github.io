@@ -14,12 +14,16 @@ hero:
   <br> Dacă ești persoană <b>fizică</b> și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
   "
   button1:
-    label: "Aboneaza-te!"
+    label: "Persoana Fizica: Aboneaza-te!"
     link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
   button2:
+    label: "Persoana Juridica: Cere oferta!"
+    link: "https://forms.gle/ZzAkwwsrGbXFdrDGA"
+  button3:
     label: "Descarca lista"
     link: "https://docs.google.com/document/d/1-4Qi0iPOeQL2x4az3q8emdF31oknEQ_z/"
   bg_title: "Despre"
+
   info:
     - num: "130 <strong>+</strong>"
       value: "de oferte <strong>pentru utilizatori</strong>"

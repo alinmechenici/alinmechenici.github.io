@@ -3,7 +3,7 @@
 # preview details
 layout: works-single
 title: Dezinfecanti PRO
-category: produse
+category: Produse
 category_slug: produse
 location: National
 location_slug: national
