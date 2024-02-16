@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -7,7 +6,7 @@ location: National
 location_slug: national
 category: Alte servicii
 category_slug: alte-servicii
-image: assets/img/logos/edubenefits.png # madico.png  #  https://drive.google.com/file/d/1vFAooOCep7COO_ogmgBgeAqvc5T-erZf/view?usp=share_link
+image: assets/img/logos/biogust.jpg
 short_description: "5% reducere la orice produs achizitionat din magazin sau online"
 
 # full details

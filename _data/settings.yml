@@ -29,7 +29,7 @@ footer:
   developer: "Dezvoltat de <strong>chenist.digital</strong>"
   copyright: "<strong>EduBenefits</strong>. Toate drepturile rezervate."
 
-### Portfolio Filters Settings
+### Filters Settings
 portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:

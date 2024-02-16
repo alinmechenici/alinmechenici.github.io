@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -7,7 +6,7 @@ category: Produse
 category_slug: produse
 location: National
 location_slug: national
-image:image: assets/img/logos/dezinfectantipro.png
+image: assets/img/logos/dezinfectantipro.png
 short_description: 10% discount la orice comanda
 
 

@@ -7,7 +7,7 @@ category_slug: sanatate
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/ileanavatasescu.png
-short_description:  "10% psihoterapie individuala"
+short_description: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"
 
 # full details
 live_preview: https://www.facebook.com/psihologultau.ro/?_rdc=2&_rdr
@@ -21,7 +21,7 @@ info:
 
 description1:
   show: yes
-  title: "10% psihoterapie individuala"
+  title: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"
   text: "<p>.</p>
   "
 

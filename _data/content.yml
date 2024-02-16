@@ -18,9 +18,9 @@ hero:
     link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
   button2:
     label: "Persoana Juridica: Cere oferta!"
-    link: "https://forms.gle/ZzAkwwsrGbXFdrDGA"
+    link: "#contact-section"
   button3:
-    label: "Descarca lista"
+    label: "Descarca lista completa de oferte"
     link: "https://docs.google.com/document/d/1-4Qi0iPOeQL2x4az3q8emdF31oknEQ_z/"
   bg_title: "Despre"
 
@@ -229,12 +229,10 @@ services:
 #        period: "2016 - 2018"
 #        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-
-
 ### Pricing [ pricing ]
 pricing:
   title: "Preturi"
-  subtitle: "membership /<b> Card EduBenefits</b>"
+  subtitle: "membership <b> </b>"
   bg_title: "Preturi"
 
   items:
@@ -254,7 +252,7 @@ pricing:
   #        included: false
       button:
         label: "Alege"
-        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+        link: "#contact-section"
 
     - name: "Trimestrial "
       center: true
@@ -273,8 +271,7 @@ pricing:
   #        included: false
       button:
         label: "Alege"
-        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
-
+        link: "#contact-section"
     - name: "Anual "
       center: true
       label: "Avantajos"
@@ -283,8 +280,7 @@ pricing:
       text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
       button:
         label: "Alege"
-        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
-
+        link: "#contact-section"
     #- name: "Anual"
     #  center: false
     #  price: "1.249 <b>RON</b>"
@@ -307,7 +303,7 @@ pricing:
 ### Pachete [ pachete ]
 pachete:
   title: "Pachete"
-  subtitle: "membership /<b> Card EduBenefits</b>"
+  subtitle: "MEMBERSHIP <b> </b>"
   bg_title: "Preturi"
 
   items:
@@ -443,7 +439,7 @@ contacts:
 #items generates from dir /_works/*
 portfolio:
   title: "Parteneri"
-  subtitle: "Oferte <b>oferite de...</b>"
+  subtitle: "Oferte <b></b>"
   bg_title: "Oferte"
   button:
     link: "works/"

@@ -5,9 +5,7 @@ title: ENA CAD – TOPOGRAFIE ȘI CADASTRU
 category: constructii / amenajari
 category_slug: constructii-amenajari
 location: National
-location_slug: national
-category_slug: constructii
-image: assets/img/logos/edubenefits.png # enacad.png  #  https://drive.google.com/file/d/1231v-jogNLSiLicgK-3OKANloV7Kde2l/view?usp=share_link
+image: assets/img/logos/edubenefits.png
 short_description: "Consultanță gratuită. Reduceri în funcție de amploarea lucrării"
 
 # full details

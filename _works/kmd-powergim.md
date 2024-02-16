@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single

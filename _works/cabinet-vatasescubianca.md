@@ -7,7 +7,7 @@ category_slug: sanatate
 location: Craiova
 location_slug: craiova
 image: assets/img/logos/biancavatasescu.png
-short_description: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"
+short_description: "10% psihoterapie individuala"
 
 # full details
 live_preview: https://www.la-psiholog.ro/cabinet-individual-de-psihologie-vatasescu-bianca-nicoleta
@@ -24,7 +24,7 @@ info:
 
 description1:
   show: yes
-  title: "- 1 ședință consiliere psihologică gratuită la un pachet de 10 sedințe psihoterapie copil <br> - 10% psihoterapie de familie"
+  title: "10% psihoterapie individuala"
   text: "<p>.</p>
   "
 

@@ -1,13 +1,12 @@
-
 ---
 # preview details
 layout: works-single
-title:  CABINET MEDICAL DR. BUNESCU FLORIN – SERVICII MEDICINA MUNCII
+title: CABINET MEDICAL DR. BUNESCU FLORIN – SERVICII MEDICINA MUNCII
 category: Servicii Medicale
 category_slug: servicii
 location: Oltenia
 location_slug: craiova
-image:image: assets/img/logos/dr-bunescu.png
+image: assets/img/logos/dr-bunescu.png
 short_description: "Servicii personalizate de Medicina Muncii, direct la sediul companiei. <br> Servicii medicale conform Fișei de identificare a factorilor de risc, precum controlul medical: periodic, la angajare, la reluarea activității, la schimbarea locului de muncă, la cerere, în caz de suspiciune de boală profesională, în caz de expuneri excepționale."
 
 # full details

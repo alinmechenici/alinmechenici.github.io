@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -9,7 +8,6 @@ location: Oltenia
 location_slug: craiova
 image: assets/img/logos/danceconspiracy.png
 short_description: "Gratuit – prima sedinta de curs, indiferent de sectiunea dorita. <br>10 % / cursant pentru posesorii de carduri"
-
 
 # full details
 live_preview: https://web.facebook.com/FabricaDeDans

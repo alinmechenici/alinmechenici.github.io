@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -9,7 +8,6 @@ location: National
 location_slug: national
 image: assets/img/logos/fitodepo.png
 short_description: "10% discount pentru orice comanda"
-
 
 # full details
 live_preview: https://www.fitodepo.ro 

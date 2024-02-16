@@ -1,4 +1,3 @@
-
 ---
 # preview details
 layout: works-single
@@ -7,7 +6,7 @@ category: Sanatate
 category_slug: sanatate
 location: Oltenia
 location_slug: craiova
-image:image: assets/img/logos/dr-alecu.png
+image: assets/img/logos/dr-alecu.png
 short_description: "10% reducere pentru consultatii la domiciliu <br> Consultatii medicale adulti si copii prin telemedicina <br> Servicii de vaccinologie"
 
 
