@@ -8,17 +8,17 @@ hero:
   image: "assets/img/profile2.png"
   image_alt: "SRB"
   title: "<b>Edu</b>Benefits"
-  before_title: "Primul instrument de <b>marketing comunitar</b> din România"
+  before_title: "<br> <br> Primul instrument de <b>marketing comunitar</b> din România"
   after_title: "Vino <strong>alaturi de noi!</strong>"
   description: "Dacă ești persoană <b>juridică</b>, promovează-ți initiațivele, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
   <br> Dacă ești persoană <b>fizică</b> și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
   "
   button1:
     label: "Persoana Fizica: Aboneaza-te!"
-    link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+    link: "#contact-section"
   button2:
     label: "Persoana Juridica: Cere oferta!"
-    link: "#contact-section"
+    link: "https://edubenefits.scoalabritanica.ro/contact"
   button3:
     label: "Descarca lista completa de oferte"
     link: "https://docs.google.com/document/d/1-4Qi0iPOeQL2x4az3q8emdF31oknEQ_z/"
@@ -123,7 +123,7 @@ testimonials:
 ### Services [ services ]
 services:
   title: "Locatii"
-  subtitle: "Oferte la nivel <b>national</b>"
+  subtitle: " <b></b>"
   bg_title: "locatii"
 
   items:
@@ -252,7 +252,7 @@ pricing:
   #        included: false
       button:
         label: "Alege"
-        link: "#contact-section"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
 
     - name: "Trimestrial "
       center: true
@@ -280,7 +280,7 @@ pricing:
       text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
       button:
         label: "Alege"
-        link: "#contact-section"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
     #- name: "Anual"
     #  center: false
     #  price: "1.249 <b>RON</b>"
@@ -326,7 +326,7 @@ pachete:
           included: true
       button:
         label: "Alege"
-        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
 
     - name: "Pachetul 2"
       center: true
@@ -353,7 +353,7 @@ pachete:
           included: true
       button:
         label: "Alege"
-        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
 
     - name: "Pachetul 3"
       center: true
@@ -383,7 +383,7 @@ pachete:
         
       button:
         label: "Alege"
-        link: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
 
     #- name: "Anual"
     #  center: false

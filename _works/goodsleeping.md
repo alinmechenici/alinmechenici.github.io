@@ -9,7 +9,6 @@ location_slug: national
 image: assets/img/logos/goodsleeping.png
 short_description: "20% discount la orice comanda"
 
-
 # full details
 live_preview: {website}
 info:
